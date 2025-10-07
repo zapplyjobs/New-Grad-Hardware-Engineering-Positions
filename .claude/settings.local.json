@@ -14,7 +14,8 @@
       "Bash(git commit:*)",
       "Bash(git fetch:*)",
       "Bash(gh run list:*)",
-      "Bash(gh run view:*)"
+      "Bash(gh run view:*)",
+      "Bash(git config:*)"
     ],
     "deny": []
   }
