@@ -15,7 +15,9 @@
       "Bash(git fetch:*)",
       "Bash(gh run list:*)",
       "Bash(gh run view:*)",
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(git log:*)"
     ],
     "deny": []
   }
