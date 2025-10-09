@@ -17,7 +17,11 @@
       "Bash(gh run view:*)",
       "Bash(git config:*)",
       "WebFetch(domain:github.com)",
-      "Bash(git log:*)"
+      "Bash(git log:*)",
+      "Bash(npm test:*)",
+      "Bash(npm install:*)",
+      "Read(//mnt/c/Users/jarra/Videos/Work/Business/**)",
+      "Bash(git pull:*)"
     ],
     "deny": []
   }
