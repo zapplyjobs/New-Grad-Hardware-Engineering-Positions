@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1822-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1823-brightgreen?style=flat&logo=briefcase)
 ![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1530-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-281-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -297,6 +297,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Silicon Validation Engineer, Google C... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87066834049606342) |
 | **Google** | Network Test Engineer, NetInfra Fabri... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111398726798320326) |
 | **Pure Storage** | Hardware Debug and Validation Engineer | Santa Clara, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7985282) |
+| **Honeywell** | Advanced Verification & Validation En... | Northford, CT, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/149615) |
 | **AMD** | Platform / System Debug Validation En... | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88618/login) |
 | **DoorDash** | Flight Test Engineer | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8082005) |
 | **SpaceX** | Development Test Engineer, Battery (S... | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8647452002?gh_jid=8647452002) |
@@ -493,7 +494,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1822 current opportunities from 281 companies**
+**🎯 1823 current opportunities from 281 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
