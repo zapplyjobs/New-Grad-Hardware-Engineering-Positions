@@ -18,7 +18,7 @@
 <div align="center">
 
 ![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1904-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1585-informational?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1584-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-281-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -120,6 +120,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **onsemi** | Shift Thin Films Module Engineer | Hopewell Junction... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506095) |
 | **onsemi** | Applications Engineer | Princeton, NJ, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506038) |
 | **Texas Instruments** | Equipment Engineer - Metrology | Richardson, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016595) |
+| **Texas Instruments** | Manufacturing Diffusion Process Engineer | Dallas, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016701) |
 | **Texas Instruments** | Layout Designer | Dallas, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016736) |
 | **Vertiv** | Controls Engineer- Networking | Pelzer, SC, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20269529) |
 | **WSP** | Resident Engineer - Construction Mana... | Columbia, MD, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91457) |
@@ -159,7 +160,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **onsemi** | Field Applications Engineer | San Jose, CA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505864) |
 | **Oracle** | Manager, Site Reliability Engineering | Reston, VA, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340413) |
 | **Sherwin-Williams** | Ignition Full Stack Application Devel... | Cleveland, OH, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616293) |
-| **Texas Instruments** | CMP Manufacturing Equipment Engineer | Dallas, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016684) |
 | **Vertiv** | DVT Engineer – Liquid Cooling | Westerville, OH, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260819) |
 | **Vertiv** | ERS-NETA Electrical Testing Technicia... | Denver, CO, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20277656) |
 | **Hunt Oil Company** | Field Engineer | McAllen, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/986) |
@@ -436,6 +436,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **General Motors** | Global Artisan Innovation Center – Qu... | Pontiac, Michigan... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Pontiac-Michigan-United-States-of-America/Global-Artisan-Innovation-Center---Quality-Engineer_JR-202614192) |
 | **Crane Co.** | Quality Engineer-1 | Burbank, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Quality-Engineer-1_JR101275) |
 | **CACI** | Oracle HCM Cloud Test Automation & Qu... | Ashburn, VA, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Ashburn-VA-US/HCM-Cloud-Test-Automation---Quality-Engineer_322930) |
+| **Cummins** | Quality Engineer | Oshkosh, WI, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2429480) |
 | **Hologic** | Product Quality Engineer 3 | Newark, DE, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11959) |
 | **BorgWarner** | Quality Engineer | Oregon | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Hood-River---Oregon---USA/Quality-Engineer_R2026-2739) |
 | **Crane Co.** | Quality Engineer I-III | Lynnwood, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Lynnwood-Washington/Quality-Engineer-III_JR102006) |
