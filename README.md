@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1823-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1530-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1824-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1531-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-280-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **SpaceX** | Electrical Engineer - Energy & Genera... | McGregor, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8647939002?gh_jid=8647939002) |
 | **Waymo** | Component Engineer | Mountain View, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8082652) |
 | **Anduril** | Program Manager, Ground Systems | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194997007?gh_jid=5194997007) |
 | **Veolia Environnement SA** | SCADA/Electrical Engineer | Johnstown, OH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139647239) |
@@ -97,7 +98,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veolia Environnement SA** | Service Manager - Water Treatment | Arlington, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139373249) |
 | **Microsoft** | Critical Environment Field Service En... | Phoenix, Arizona,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556874560) |
 | **Microsoft** | Critical Environment Field Service En... | Phoenix, Arizona,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556915362) |
-| **SpaceX** | Supplier Development Engineer, Mechan... | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8644018002?gh_jid=8644018002) |
 | **Scout Motors** | Engineer, Interior / Electrical Acces... | Novi, Michigan, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5189054007) |
 | **Aurora Innovation** | Cadence PCB Librarian | Mountain View, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8647890002?gh_jid=8647890002) |
 | **Lila Sciences** | Sr Controls Engineer | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4311159009) |
@@ -494,7 +494,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1823 current opportunities from 280 companies**
+**🎯 1824 current opportunities from 280 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
