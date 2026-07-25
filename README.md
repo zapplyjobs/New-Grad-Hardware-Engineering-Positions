@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1827-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1832-brightgreen?style=flat&logo=briefcase)
 ![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1541-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-280-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -289,9 +289,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Google** | Silicon Validation Engineer, HBM, Goo... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107321643193246406) |
+| **Google** | Silicon Validation Engineer, Google C... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87066834049606342) |
 | **Google** | Network Test Engineer, NetInfra Fabri... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111398726798320326) |
-| **Google** | Hardware Validation Engineer, Cloud P... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113881960924750534) |
-| **Google** | Platforms Test Engineer, Platforms In... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116587408069141190) |
 | **Apple** | SerDes Design and Validation Engineer | San Diego | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674207/serdes-design-and-validation-engineer) |
 | **AMD** | AI Validation and Test Engineer | Secaucus, NJ, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88567/login) |
 | **Intuitive** | SIM Test Engineer | Santa Clara, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139690629) |
@@ -492,7 +492,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1827 current opportunities from 280 companies**
+**🎯 1832 current opportunities from 280 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
