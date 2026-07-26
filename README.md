@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1738-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1467-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1737-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1466-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-280-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -74,7 +74,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Co-Design Engineer, Google Cloud TPU | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/100211878885499590) |
 | **TikTok** | Site Reliability Engineer, TikTok Gen... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7599929157435509045) |
 | **TikTok** | Site Reliability Engineer, Global E-c... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7607644297220688133) |
-| **TikTok** | Product Designer (Design Engineering ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7644839024281159941) |
+| **TikTok** | LLM AIOps Development Engineer - Data... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7605333525314685237) |
 | **Eurofins** | Assistant Facility Manager | Madison, WI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139821909) |
 | **Olsson** | Licensed Traffic Engineer – Data Center | Baton Rouge, LA; ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5370711008) |
 | **Olsson** | Licensed Traffic Engineer – Data Center | Remote; Arkansas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5370710008) |
@@ -481,7 +481,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1738 current opportunities from 280 companies**
+**🎯 1737 current opportunities from 280 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
