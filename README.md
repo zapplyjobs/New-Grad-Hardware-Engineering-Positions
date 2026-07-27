@@ -18,7 +18,7 @@
 <div align="center">
 
 ![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3018-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2533-informational?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2534-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-312-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,14 +66,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Reframe Systems** | Mechanical Engineer (Fall 2026 Co-op) | Andover, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/reframesystems/3e46ee10-3a7f-4c0d-91af-e38eb9dee4fc/application) |
 | **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **ByteDance** | Design Verification Engineer Graduate... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7551554573577750802) |
+| **Google** | Program Manager III, Commercial Readi... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96346867880600262) |
+| **Google** | Mechanical Product Design Engineer III | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/101521191075750598) |
+| **Google** | Hardware Reliability Engineer, Global... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129208906055328454) |
+| **Reframe Systems** | Mechanical Engineer (Fall 2026 Co-op) | Andover, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/reframesystems/3e46ee10-3a7f-4c0d-91af-e38eb9dee4fc/application) |
 | **Formlabs** | Electrical Engineer | Somerville, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8089158/apply/?gh_jid=8089158) |
-| **Google** | AI Application Engineer | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120572047871877830) |
-| **Google** | Technical Program Manager III, Sensor... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80068898879087302) |
-| **Google** | Co-Design Engineer, Google Cloud TPU | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/100211878885499590) |
 | **SharkNinja** | Design Manager, Engineering - Home En... | Needham, MA, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4698939006) |
 | **NBCUniversal** | Project Controls Engineer II - Project | Universal City, C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140061169) |
 | **SpaceX** | Mechanical Engineer | McGregor, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8648969002?gh_jid=8648969002) |
@@ -84,6 +84,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ALTEN Technology** | Mechanical Engineer | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5196528007) |
 | **CoreWeave** | Data Center Technician - Weehawken, NJ | Weehawken, NJ | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coreweave.com/careers/job?4694685006&board=coreweave&gh_jid=4694685006) |
 | **Base Power** | Operations Engineer, GTM | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/454d2748-2eea-4742-a8a2-329d0b7da6b7/application) |
+| **Amazon Data Services, Inc.** | Data Center Civil Engineer II, DE AME... | Herndon, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10485042/data-center-civil-engineer-ii-de-amer-dcde-amer-civil-east) |
 | **Amazon.com Services LLC** | Systems Development Engineer, Devices... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10485027/systems-development-engineer-devices-technologies-fulfillment-technology-robotics) |
 | **Amazon.com Services LLC** | Systems Development Engineer, Devices... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10485028/systems-development-engineer-devices-technologies-fulfillment-technology-robotics) |
 | **Amazon.com Services LLC** | Hardware Design Engineer II, Vulcan Stow | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10484850/hardware-design-engineer-ii-vulcan-stow) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Texas Instruments** | Equipment Engineer - Metrology | Richardson, TX, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016595) |
 | **Texas Instruments** | Manufacturing Diffusion Process Engineer | Dallas, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016701) |
 | **WSP** | Resident Engineer - Construction Mana... | Columbia, MD, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91457) |
-| **LLNL** | Electronics Technologist - National I... | Livermore, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014260376) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,11 +177,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Varda Space** | Spacecraft Firmware Engineer, C++ | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7817902003) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
 | **Google** | Firmware Engineer, Modem Access Strat... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135387947728806598) |
 | **Google** | Embedded Firmware Engineering Manager... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114115697339966150) |
 | **Google** | Modem Power Firmware Engineer, Pixel | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91555030850511558) |
+| **Varda Space** | Spacecraft Firmware Engineer, C++ | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7817902003) |
 | **Latitude AI** | Service Technician Associate II | Allen Park, MI | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/latitude/jobs/8083699) |
 | **WSP** | Associate Structural Engineer (Buildi... | Dallas, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91983) |
 | **WSP** | Associate Structural Engineer - Indus... | Meridian, ID, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91988) |
@@ -284,7 +284,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Varda Space** | Spacecraft Embedded Linux Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7817908003) |
 | **Applied Intuition** | Embedded Firmware Validation Engineer | Sunnyvale | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/01dba94d-34b9-4d30-a7d3-82344bab609c/application) |
 | **Amazon.com Services LLC** | Embedded SDE II, HW Compute Group | Sunnyvale, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481960/embedded-sde-ii-hw-compute-group) |
 | **Anduril** | Embedded Software Engineer, C++ | Lexington, Massac... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5190195007?gh_jid=5190195007) |
