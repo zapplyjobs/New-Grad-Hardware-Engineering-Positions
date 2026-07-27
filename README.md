@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3152-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2665-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3153-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2669-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-314-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,13 +66,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Perplexity** | Design Engineer, Growth & Marketing | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666/application) |
 | **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **ByteDance** | Design Verification Engineer Graduate... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7551554573577750802) |
-| **Google** | Application Engineer | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120627758966416070) |
-| **Google** | AI Application Engineer | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120572047871877830) |
-| **Google** | Hardware Engineer | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130730071802421958) |
+| **Zipline** | Engineering Test Technician – Ground ... | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7815630003) |
+| **Google** | TPU Co-Design Engineer, Google Cloud | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/81248189524386502) |
+| **Google** | Electrical Engineer, Platform Realiza... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120084155693179590) |
+| **Google** | Silicon Design Verification Engineer,... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105552026472981190) |
+| **Redwood Materials** | Electronics Technician | McCarran, NV | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6103559004?gh_jid=6103559004) |
+| **Perplexity** | Design Engineer, Growth & Marketing | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666/application) |
 | **Aurora Innovation** | Technical Program Manager, HW Systems... | Pittsburgh, Penns... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8651038002?gh_jid=8651038002) |
 | **Apple** | Graphics Cache Hierarchy Design Verif... | Santa Clara | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674381/graphics-cache-hierarchy-design-verification-engineer) |
 | **LG Electronics** | Product Development Engineer II, LGE ... | Alpharetta, GA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5371737008) |
@@ -85,6 +87,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SharkNinja** | Design Manager, Engineering - Home En... | Needham, MA, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4698939006) |
 | **NBCUniversal** | Project Controls Engineer II - Project | Universal City, C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140061169) |
 | **SpaceX** | Mechanical Engineer | McGregor, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8648969002?gh_jid=8648969002) |
+| **Microsoft** | Silicon Engineer II | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556943334) |
 | **Maybern** | Product Designer | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/maybern/2b1195e0-32b6-454d-92f8-b94cf5cdbb54/application) |
 | **AMD** | Electronics Engineering Technician | Austin, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/79783/login) |
 | **Smiths Group** | Technical Service Engineer | Pine Brook, NJ | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000140025685) |
@@ -101,6 +104,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Honeywell** | Program Controls Specialist II - Atla... | Atlanta, GA, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153190) |
 | **Honeywell** | Program Controls Specialist II - Phoe... | Phoenix, AZ, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153193) |
 | **Honeywell** | Field Service Engineer I | Pittsford, NY, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154096) |
+| **Nokia** | PIC Design and High-Speed Device Deve... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/32940) |
 | **Nokia** | Industrial Engineer | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38954) |
 | **Sherwin-Williams** | Controls Specialist | Waco, TX, United ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618526) |
 | **Texas Instruments** | Applications Engineer | Dallas, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016761) |
@@ -122,7 +126,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oklo** | Instrumentation and Controls Engineer | Santa Clara, CA o... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/6127042004) |
 | **Freeform** | Electrical Integration Technician | Los Angeles, CA (... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7816191003) |
 | **Redwood Materials** | Systems Engineer, Industrial Infrastr... | McCarran, NV | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6103562004?gh_jid=6103562004) |
-| **Redwood Materials** | Business Applications Engineer, Oracl... | McCarran, NV | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6115205004?gh_jid=6115205004) |
 | **Amazon Development Center U.S., Inc.** | Sr Hardware Development Engineer, CPU... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10484063/sr-hardware-development-engineer-cpu-and-memory-performance-team) |
 | **Apple** | Acoustic Transducer Engineer | Denver Metro Area | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674164/acoustic-transducer-engineer) |
 | **AMD** | Logic Design Engineer | Santa Clara, CA, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88066/login) |
@@ -163,9 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Field AI** | Field Application Engineer  - Tempora... | Sterling, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/826b596d-3c91-44b8-83fc-fc42f5d04ac6/apply) |
 | **Amazon Kuiper Manufacturing Enterprises LLC** | Satellite Hardware Engineer, Bus Stru... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483959/satellite-hardware-engineer-bus-structures) |
 | **Berkshire Hathaway Energy** | Engineering Tech 1/2/Sr - Gas | Des Moines, IA, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005440) |
-| **Emerson Electric** | Mechanical Engineer | East Dundee, IL, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008446) |
-| **Hologic** | Field Service Engineer - Charleston SC | Charleston, SC, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12078) |
-| **Hologic** | Field Service Engineer - Lansing MI | Lansing, MI, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12112) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -178,9 +178,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
-| **Google** | Firmware Engineer, Modem Access Strat... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135387947728806598) |
-| **Google** | Embedded Firmware Engineering Manager... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114115697339966150) |
-| **Google** | Modem Power Firmware Engineer, Pixel | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91555030850511558) |
+| **Google** | RTL Design Engineer, TPU | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129911022612816582) |
+| **Google** | ASIC Design Verification Engineer, Pl... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142748636273353414) |
+| **Google** | TPU SoC Design Engineer, Google Cloud | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94872216629322438) |
 | **Apple** | SoC Validation Engineer | Austin | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200657425/soc-validation-engineer) |
 | **AMD** | FPGA Design Engineer (Timing) | San Jose, CA, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/89010/login) |
 | **Varda Space** | Spacecraft Firmware Engineer, C++ | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7817902003) |
@@ -323,9 +323,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Google** | Manufacturing Test Engineer | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86568711258809030) |
+| **Google** | EMC Test Engineer, Google Cloud | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110906807014040262) |
 | **Google** | Network Test Engineer | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108335218967880390) |
-| **Google** | Silicon Validation Engineer, HBM, Goo... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107321643193246406) |
-| **Google** | Silicon Validation Engineer, Google C... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87066834049606342) |
 | **Apple** | Analog/Mixed-Signal IP Engineering Pr... | Austin | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200658634/analog-mixed-signal-ip-engineering-program-manager) |
 | **Apple** | Analog/Mixed-Signal IP Engineering Pr... | Austin | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200671824/analog-mixed-signal-ip-engineering-program-manager) |
 | **Anduril** | Laser Test Engineer | Lexington, Massac... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5196584007?gh_jid=5196584007) |
@@ -575,7 +575,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3152 current opportunities from 314 companies**
+**🎯 3153 current opportunities from 314 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
