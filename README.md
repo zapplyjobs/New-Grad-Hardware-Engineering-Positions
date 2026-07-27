@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1620-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1370-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-274-blue?style=flat&logo=building)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1607-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1361-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-273-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -236,9 +236,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **DRW** | FPGA Intern | Chicago | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
 | **Cadence** | Firmware Engineer II | AUSTIN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Firmware-Engineer-II_R55227-1) |
 | **Cadence** | Firmware Engineer II | AUSTIN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Firmware-Engineer-II_R55225) |
-| **Analog Devices** | Associate Equipment Engineer | US, OR, Beaverton | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Associate-Equipment-Engineer_R263682) |
-| **BlackRock** | Veterans Transition Program-Associate... | Atlanta, GA + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Atlanta-GA/Veterans-Transition-Program-Associate--Platform-Enablement-Application-Engineer_R264973) |
-| **BlackRock** | Associate, Application Engineer - Atl... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Atlanta-GA/Technology-and-Development-Operations-UI-Developer---Atlanta_R260504) |
 | **Jump Trading** | Campus FPGA Engineer (Intern) | Chicago | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
 | **Astranis** | Radiation Effects Associate Engineer ... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4694883006) |
 | **Lila Sciences** | Co-op, Electrosynthesis | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4288399009) |
@@ -267,7 +264,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Snap** | Embedded Systems Security Engineer | San Diego, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/San-Diego-California/Security-Engineer_R0046087-1) |
 | **Texas Instruments** | Field Applications Engineer   Microco... | Southfield, MI, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016547) |
 | **RELX** | Sr Product Mgr II - Embedded Innovation | Raleigh, NC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Raleigh-NC/Sr-Product-Mgr-II---Embedded-Innovation_R115571) |
-| **National Interstate Insurance** | Product Analyst- Embedded Solutions | Cincinnati, OH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Travel-Insurance-Program-Manager---Embedded-Solutions_R8896) |
 | **Figure AI** | Firmware Intern [Fall 2026] | San Jose, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
 
 <p align="center">Apply for more jobs at</p>
@@ -467,7 +463,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1620 current opportunities from 274 companies**
+**🎯 1607 current opportunities from 273 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
