@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2937-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2485-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-312-blue?style=flat&logo=building)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2620-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2230-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-310-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -100,7 +100,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lambda** | Data Center Operations Systems Engine... | Elk Grove Village... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/49f74010-da5e-42b1-8ebc-db4d39af443d/application) |
 | **Lambda** | Data Center Operations System Enginee... | Elk Grove Village... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/75d998f5-c6cd-47fe-aadd-beb119f2371a/application) |
 | **Crusoe** | Infrastructure Design Engineer | Sunnyvale, CA - US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/crusoe/3dffdca3-5f70-4857-aa5f-225c89fae144/application) |
-| **Anduril** | Electrical Engineering Technician | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5187740007?gh_jid=5187740007) |
 | **Bosch Group** | Prototyping Specialist | Waltham, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139684620) |
 | **Applied Intuition** | Systems Engineer, Vehicle OS | Sunnyvale | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/54fcd997-ce58-41bc-8853-2135c2d64e8c/application) |
 | **Veolia Environnement SA** | Associate Electrical Engineer - Data ... | Fredericksburg, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139683109) |
@@ -117,7 +116,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | Electrical Engineer - Energy & Genera... | McGregor, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8647939002?gh_jid=8647939002) |
 | **Waymo** | Component Engineer | Mountain View, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8082652) |
 | **AMD** | High Performance and Scientific Compu... | Austin, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88037/login) |
-| **Anduril** | Program Manager, Ground Systems | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194997007?gh_jid=5194997007) |
 | **Waymo** | Regional Fleet Readiness Manager - EAST | Washington, D.C.,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8077778) |
 | **SpaceX** | Supervisor, Welding (Starship Launch ... | Cape Canaveral, FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8648974002?gh_jid=8648974002) |
 | **Intuitive** | Field Service Engineer 2 | Anaheim, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139618679) |
@@ -127,7 +125,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CoreWeave** | Data Center Technician - Dalton, GA | Dalton, GA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coreweave.com/careers/job?4699663006&board=coreweave&gh_jid=4699663006) |
 | **AMD** | Sr Verification Engineer-Memory Subsy... | San Jose, CA, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88932/login) |
 | **Bosch Group** | Process Engineer I | Lincolnshire, IL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139605999) |
-| **Anduril** | Mechanical Designer | Lexington, Massac... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5195478007?gh_jid=5195478007) |
 | **LG Electronics** | Sr Product Development Engineer | Alpharetta, GA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5369321008) |
 | **Jane Street** | Hardware Engineer | New York, New Yor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8646893002) |
 | **Field AI** | Field Application Engineer  - Tempora... | Sterling, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/826b596d-3c91-44b8-83fc-fc42f5d04ac6/apply) |
@@ -166,6 +163,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Etched** | Physical Design Engineer - Block Leve... | San Jose | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/b03aad0f-6915-414c-a65e-9679df9fb1a0/application) |
 | **Sila Nanotechnologies** | Mechanical Engineer, Equipment Engine... | Alameda, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/silananotechnologies/jobs/8080802) |
 | **Neuralink** | Lab Manager | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7813383003?gh_jid=7813383003) |
+| **Amazon Data Services, Inc.** | Electrical Engineer, Data Center, Col... | Atlanta, GA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482351/electrical-engineer-data-center-colocation-regional-engineering-amer) |
+| **Amazon Data Services, Inc.** | Product Lifecycle Mechanical Engineer... | Herndon, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482252/product-lifecycle-mechanical-engineer-data-center-mechanical-products-services) |
+| **Amazon Data Services, Inc.** | Commissioning Engineer | Atlanta, GA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482908/commissioning-engineer) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,6 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Latitude AI** | Service Technician Associate II | Allen Park, MI | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/latitude/jobs/8083699) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
 | **Google** | Firmware Engineer, Modem Access Strat... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135387947728806598) |
 | **Google** | Embedded Firmware Engineering Manager... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114115697339966150) |
@@ -186,7 +187,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TikTok** | Machine Learning Engineer - TikTok-Da... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7629413068283808053) |
 | **TikTok** | Machine Learning Engineer Graduate (T... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7639440318003300613) |
 | **Veolia Environnement SA** | Associate Mechanical Engineer – (Data... | Fredericksburg, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139683009) |
-| **Anduril** | Firmware Engineer | Lexington, Massac... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5195477007?gh_jid=5195477007) |
 | **Neros Technologies** | Firmware Engineer - Flight Software | Torrance, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/nerostechnologies/jobs/5195301007) |
 | **Appian** | Associate Application Engineer (2027 ... | McLean, Virginia | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8035372) |
 | **AMD** | SERDES Firmware Engineer | San Jose, CA, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88608/login) |
@@ -194,8 +194,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | FPGA Verification Engineer, Bespoke S... | Arlington, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482749/fpga-verification-engineer-bespoke-solutions) |
 | **Emerson Electric** | Associate Field Service Engineer | Charlotte, NC, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004666) |
 | **WSP** | Associate Civil/Geotechnical Engineer... | Lakewood, CO, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91169) |
-| **Anduril** | Firmware Engineer, Space Embedded Sys... | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5191467007?gh_jid=5191467007) |
-| **Anduril** | Firmware Engineer | Irvine, Californi... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5191296007?gh_jid=5191296007) |
 | **Bosch Group** | Associate/Envir. Health & Safety Engi... | Roseville, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138673319) |
 | **Emerson Electric** | Associate Field Service Engineer | Chicago, IL, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004608) |
 | **WSP** | Associate Mechanical Engineer - Build... | Denver, CO, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91512) |
@@ -282,7 +280,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Applied Intuition** | Embedded Firmware Validation Engineer | Sunnyvale | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/01dba94d-34b9-4d30-a7d3-82344bab609c/application) |
 | **Amazon.com Services LLC** | Embedded SDE II, HW Compute Group | Sunnyvale, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481960/embedded-sde-ii-hw-compute-group) |
-| **Anduril** | Embedded Software Engineer, C++ | Lexington, Massac... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5190195007?gh_jid=5190195007) |
 | **Western Digital** | Engineer Embedded System Engineering | Irvine, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138185309) |
 | **Parsons** | Embedded Engineer - TS/SCI | VA, Centreville, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Centreville/Embedded-Engineer---TS-SCI_R175642-1) |
 | **Snap** | Embedded Systems Security Engineer | San Diego, Califo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/San-Diego-California/Security-Engineer_R0046087-1) |
@@ -291,8 +288,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Axon** | Embedded Technical Account Manager - ... | Remote, United St... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7791817003) |
 | **SpaceX** | Embedded Security Engineer (Starlink) | Bastrop, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8624836002?gh_jid=8624836002) |
 | **Redwood Materials** | Embedded Software Engineer – Power El... | San Francisco, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6003203004?gh_jid=6003203004) |
-| **Anduril** | Embedded Haskell Engineer, EW | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5178470007?gh_jid=5178470007) |
-| **Anduril** | Embedded Linux Engineer | Seattle, Washingt... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5172006007?gh_jid=5172006007) |
 | **Figure AI** | Firmware Intern [Fall 2026] | San Jose, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
 | **DoorDash** | Firmware Validation & Integration Eng... | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8010514) |
 | **SpaceX** | Security Engineer (Embedded OT) | Cape Canaveral, FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8593389002?gh_jid=8593389002) |
@@ -336,7 +331,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Zoox** | Part-Time Student Worker System Test ... | Foster City, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/c794f77e-c39d-44f2-9309-8bc904e0f868/apply) |
 | **Apex Technology** | Avionics Test Engineer, Hardware | Los Angeles | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/apex-technology-inc/3c7c5384-c6e9-4274-b090-90d2d51c30a8/application) |
 | **Intuitive** | SW Test Engineer | Santa Clara, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139329659) |
-| **Anduril** | Electrical System Test Engineer | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5156719007?gh_jid=5156719007) |
 | **SpaceX** | Avionics Test Engineer (Starfall) | Hawthorne, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8644026002?gh_jid=8644026002) |
 | **SpaceX** | Electrical Test Engineer (Starshield) | Hawthorne, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8643997002?gh_jid=8643997002) |
 | **Microsoft** | System Product Test Engineer | Hillsboro, Oregon... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556933528) |
@@ -348,7 +342,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **True Anomaly** | Data and Controls Systems Test Engineer | Long Beach, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5191069007) |
 | **Skydio** | Flight Test Engineer - Wireless | San Mateo, Califo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/9a2ea1b1-b3cc-4dfa-995b-b9da074247d5/application) |
 | **Zipline** | Mechanical Test Engineering Manager (... | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7809119003) |
-| **Anduril** | Manufacturing Test Engineer | Quincy, Massachus... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5144350007?gh_jid=5144350007) |
 | **Formlabs** | R&D Reliability/Test Engineer | Boston, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8072864/apply/?gh_jid=8072864) |
 | **Formlabs** | R&D Reliability/Test Engineer | Somerville, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8072860/apply/?gh_jid=8072860) |
 | **IEM** | Electrical Design Engineer – Level l ... | Jacksonville, Flo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4322098009) |
@@ -373,7 +366,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Validation Engineer II | Branchburg, NJ | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014090096) |
 | **AeroVironment** | RF PCBA Design and Test Engineer | Albuquerque, NM | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/Albuquerque-NM/Lead-Engineer---RF-Engineering_7964) |
 | **Blue Origin** | Power Electronics Engineer III - Luna... | Greater Seattle A... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Hardware-Engineer-III_R64051) |
-| **Anduril** | 2026 Early Career Flight Test Enginee... | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007) |
 | **Schweitzer Engineering Laboratories** | Power Engineer Intern | King of Prussia | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Power-Engineer-Intern_2026-21156) |
 | **Moog** | Intern, Test Engineering | Buffalo, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Test-Engineering_R-26-18775) |
 | **Lightmatter** | Photonics Hardware Validation Engineer | Mountain View, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/lightmatter/jobs/5303113008?gh_jid=5303113008) |
@@ -417,6 +409,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Archer** | Flight Test Instrumentation Electrica... | San Jose, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/archer56/jobs/7593890003) |
 | **Relativity Space** | Propulsion Integration & Test Enginee... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8367604002?gh_jid=8367604002) |
 | **Redwood Materials** | Power Electronics Controls Engineer, ... | San Francisco, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/5737875004?gh_jid=5737875004) |
+| **Redwood Materials** | Power Electronics Engineer, Energy St... | San Francisco, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/5737886004?gh_jid=5737886004) |
+| **Block** | Silicon Product and Test Engineer | Bay Area, CA, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5012351008?gh_jid=5012351008) |
+| **Relativity Space** | Avionics Test Engineer II | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8328325002?gh_jid=8328325002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -449,7 +444,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **RTX** | Quality Engineer, Operations & Strate... | Sh, DE | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/DE-SH-LUBECK-BLDG-1--Revalstr-1--BLDG-1/Quality-Engineer--Operations--m-f-d-_01853312) |
 | **Vertiv** | Quality Engineer Business Systems & A... | Westerville, OH, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272093) |
 | **ALTEN Technology** | Supplier Quality Engineer | Oceanside, Califo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5189129007) |
-| **Anduril** | Manager, Product Quality Engineering,... | Quonset, Rhode Is... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5183569007?gh_jid=5183569007) |
 | **Medtronic** | 130520 - Quality Engineer I | Mounds View, Minn... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/XMLNAME-130520---Quality-Engineer-I_R72277-1) |
 | **Microchip Technology** | Manager - Quality Engineering | Beverly Tozer, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/MA---Beverly-Tozer/Manager---Quality-Engineering_R2211-25) |
 | **Blue Origin** | Quality Engineer III - Lunar B-Shift | Space Coast, FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Quality-Engineer-III---Lunar-B-Shift_R67684) |
@@ -469,11 +463,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **General Motors** | Supplier Quality Engineer | Warren, Michigan,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Supplier-Quality-Engineer_JR-202614636-1) |
 | **Honeywell** | Sr Supplier Quality Engineer | Palmetto, FL, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153131) |
 | **Zipline** | Hardware Test & Prototype Technician,... | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7802145003) |
-| **Anduril** | Product Quality Engineer | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5175601007?gh_jid=5175601007) |
 | **Lucid Motors** | Field Quality Engineer, Customer Warr... | Casa Grande, AZ | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5175805007) |
 | **Alarm.com** | Quality Engineer (Video) | Tysons, Virginia | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8606157002) |
 | **General Matter** | Quality Engineer, Manufacturing | Los Angeles, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/generalmatter/jobs/5268862008) |
-| **Anduril** | Supplier Quality Engineering, Rocket ... | McHenry, Mississi... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5178575007?gh_jid=5178575007) |
 | **VAST** | 2026 Fall Internship - Supplier Quali... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4691428006?gh_jid=4691428006) |
 | **BillionToOne** | Quality Engineer, Prenatal | Union City, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4707547005) |
 | **Crane Co.** | Quality Engineering Co-op | Spartanburg, Sout... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Quality-Engineering-Co-op_JR101988) |
@@ -565,7 +557,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2937 current opportunities from 312 companies**
+**🎯 2620 current opportunities from 310 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
