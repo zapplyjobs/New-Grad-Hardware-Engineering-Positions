@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1568-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1565-brightgreen?style=flat&logo=briefcase)
 ![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1333-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-271-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -72,6 +72,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | AI Application Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120572047871877830) |
 | **Google** | Technical Program Manager III, Sensor... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80068898879087302) |
 | **Google** | Co-Design Engineer, Google Cloud TPU | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/100211878885499590) |
+| **Sherwin-Williams** | Controls Specialist | Waco, TX, United ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618526) |
 | **TikTok** | Site Reliability Engineer, TikTok Gen... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7599929157435509045) |
 | **TikTok** | Site Reliability Engineer, Global E-c... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7607644297220688133) |
 | **TikTok** | LLM AIOps Development Engineer - Data... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7605333525314685237) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Data Services, Inc.** | Commissioning Engineer | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482908/commissioning-engineer) |
 | **Amazon Development Center U.S., Inc.** | Systems Development Engineer III, Bes... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482743/systems-development-engineer-iii-bespoke-solutions) |
 | **Amazon Development Center U.S., Inc.** | Systems Development Engineer II, Besp... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482739/systems-development-engineer-ii-bespoke-solutions) |
-| **Amazon Kuiper Manufacturing Enterprises LLC** | Hardware Engineer, Customer Terminals... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482758/hardware-engineer-customer-terminals-hardware-design) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -455,7 +455,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1568 current opportunities from 271 companies**
+**🎯 1565 current opportunities from 271 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
