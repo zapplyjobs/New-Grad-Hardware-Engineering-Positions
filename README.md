@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1706-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1438-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1698-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1430-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-279-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -69,9 +69,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **ByteDance** | Design Verification Engineer Graduate... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7551554573577750802) |
-| **Google** | Hardware Reliability Engineer, Global... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129208906055328454) |
-| **Google** | Site Reliability Engineering Manager,... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128587185916912326) |
-| **Google** | Data Center Controls Engineer, Global... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119147112913871558) |
+| **Google** | AI Application Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120572047871877830) |
+| **Google** | Technical Program Manager III, Sensor... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80068898879087302) |
+| **Google** | Co-Design Engineer, Google Cloud TPU | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/100211878885499590) |
 | **TikTok** | Site Reliability Engineer, TikTok Gen... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7599929157435509045) |
 | **TikTok** | Site Reliability Engineer, Global E-c... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7607644297220688133) |
 | **TikTok** | LLM AIOps Development Engineer - Data... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7605333525314685237) |
@@ -110,7 +110,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Silicon Engineer | Raleigh, North Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556938201) |
 | **SpaceX** | Electrical Engineer - Energy & Genera... | McGregor, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8647939002?gh_jid=8647939002) |
 | **Waymo** | Component Engineer | Mountain View, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8082652) |
-| **AMD** | High Performance and Scientific Compu... | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88037/login) |
 | **Anduril** | Program Manager, Ground Systems | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194997007?gh_jid=5194997007) |
 | **Waymo** | Regional Fleet Readiness Manager - EAST | Washington, D.C.,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8077778) |
 | **SpaceX** | Supervisor, Welding (Starship Launch ... | Cape Canaveral, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8648974002?gh_jid=8648974002) |
@@ -149,6 +148,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Critical Environment Field Service En... | Phoenix, Arizona,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556915362) |
 | **Scout Motors** | Engineer, Interior / Electrical Acces... | Novi, Michigan, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5189054007) |
 | **Aurora Innovation** | Cadence PCB Librarian | Mountain View, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8647890002?gh_jid=8647890002) |
+| **AMD** | Product Quality & Reliability Engineer | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88810/login) |
 | **Intuitive** | Mechanical Design Engineer | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139338719) |
 | **Neros Technologies** | Manufacturing Operations Engineer | Torrance, Califor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/nerostechnologies/jobs/5194131007) |
 | **Agility Robotics** | Manufacturing Engineering Technician | Salem, OR | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.agilityrobotics.com/about/job-post?gh_jid=6113730004) |
@@ -178,9 +178,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
-| **Google** | ASIC Formal Verification Engineer, TP... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/93401021752976070) |
-| **Google** | TPU PCIe RTL Design Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/121625152378020550) |
 | **Google** | Firmware Engineer, Modem Access Strat... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135387947728806598) |
+| **Google** | Embedded Firmware Engineering Manager... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114115697339966150) |
+| **Google** | Modem Power Firmware Engineer, Pixel | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91555030850511558) |
 | **Microsoft** | Firmware Engineer II | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556933151) |
 | **TikTok** | SoC Digital Verification Engineer, Mu... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7623930084894050613) |
 | **TikTok** | Machine Learning Engineer - TikTok-Da... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7629413068283808053) |
@@ -285,9 +285,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | EMC Test Engineer, Google Cloud | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110906807014040262) |
 | **Google** | Silicon Validation Engineer, HBM, Goo... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107321643193246406) |
 | **Google** | Silicon Validation Engineer, Google C... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87066834049606342) |
+| **Google** | Network Test Engineer, NetInfra Fabri... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111398726798320326) |
 | **Apple** | SerDes Design and Validation Engineer | San Diego | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674207/serdes-design-and-validation-engineer) |
 | **AMD** | AI Validation and Test Engineer | Secaucus, NJ, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88567/login) |
 | **Intuitive** | SIM Test Engineer | Santa Clara, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139690629) |
@@ -479,7 +479,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1706 current opportunities from 279 companies**
+**🎯 1698 current opportunities from 279 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
