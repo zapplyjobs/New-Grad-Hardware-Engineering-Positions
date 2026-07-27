@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3020-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2538-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-312-blue?style=flat&logo=building)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3014-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2531-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-311-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,12 +66,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **SharkNinja** | Design Manager, Engineering - Home En... | Needham, MA, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4698939006) |
+| **NBCUniversal** | Project Controls Engineer II - Project | Universal City, C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140061169) |
 | **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **ByteDance** | Design Verification Engineer Graduate... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7551554573577750802) |
-| **Google** | AI Application Engineer | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120572047871877830) |
-| **Google** | Technical Program Manager III, Sensor... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80068898879087302) |
-| **Google** | Co-Design Engineer, Google Cloud TPU | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/100211878885499590) |
+| **SpaceX** | Mechanical Engineer | McGregor, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8648969002?gh_jid=8648969002) |
+| **Google** | Hardware Systems Design Engineer, Pla... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132861305441657542) |
+| **Google** | Systems Development Engineer, Enginee... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/75785319688872646) |
+| **Google** | TPU Co-Design Engineer, Google Cloud | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/81248189524386502) |
 | **Maybern** | Product Designer | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/maybern/2b1195e0-32b6-454d-92f8-b94cf5cdbb54/application) |
 | **AMD** | Electronics Engineering Technician | Austin, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/79783/login) |
 | **Smiths Group** | Technical Service Engineer | Pine Brook, NJ | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000140025685) |
@@ -135,7 +138,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AMD** | High Performance and Scientific Compu... | Austin, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88037/login) |
 | **Anduril** | Program Manager, Ground Systems | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194997007?gh_jid=5194997007) |
 | **Waymo** | Regional Fleet Readiness Manager - EAST | Washington, D.C.,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8077778) |
-| **SpaceX** | Supervisor, Welding (Starship Launch ... | Cape Canaveral, FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8648974002?gh_jid=8648974002) |
 | **Intuitive** | Field Service Engineer 2 | Anaheim, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139618679) |
 | **Intuitive** | Field Service Engineer 2nd Shift | McAllen, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139616360) |
 | **Rainmaker** | Rainmaker Fellow, Atmospheric Instrum... | El Segundo, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/6b8ee727-b788-4f02-8157-db343181089d/apply) |
@@ -164,8 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Critical Environment Field Service En... | Phoenix, Arizona,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556915362) |
 | **Scout Motors** | Engineer, Interior / Electrical Acces... | Novi, Michigan, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5189054007) |
 | **Aurora Innovation** | Cadence PCB Librarian | Mountain View, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8647890002?gh_jid=8647890002) |
-| **Intuitive** | Mechanical Design Engineer | Sunnyvale, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139338719) |
-| **Neros Technologies** | Manufacturing Operations Engineer | Torrance, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/nerostechnologies/jobs/5194131007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -178,9 +178,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
-| **Google** | Firmware Engineer, Modem Access Strat... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135387947728806598) |
-| **Google** | Embedded Firmware Engineering Manager... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114115697339966150) |
-| **Google** | Modem Power Firmware Engineer, Pixel | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91555030850511558) |
+| **Google** | RTL Design Engineer, TPU | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129911022612816582) |
+| **Google** | ASIC Design Verification Engineer, Pl... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142748636273353414) |
+| **Google** | TPU SoC Design Engineer, Google Cloud | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94872216629322438) |
 | **Latitude AI** | Service Technician Associate II | Allen Park, MI | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/latitude/jobs/8083699) |
 | **WSP** | Associate Structural Engineer (Buildi... | Dallas, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91983) |
 | **WSP** | Associate Structural Engineer - Indus... | Meridian, ID, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91988) |
@@ -322,9 +322,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Google** | Manufacturing Test Engineer | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86568711258809030) |
+| **Google** | EMC Test Engineer, Google Cloud | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110906807014040262) |
 | **Google** | Silicon Validation Engineer, HBM, Goo... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107321643193246406) |
-| **Google** | Silicon Validation Engineer, Google C... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87066834049606342) |
-| **Google** | Network Test Engineer, NetInfra Fabri... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111398726798320326) |
 | **Anduril** | Laser Test Engineer | Lexington, Massac... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5196584007?gh_jid=5196584007) |
 | **Anduril** | Camera Test Engineer | Lexington, Massac... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5196583007?gh_jid=5196583007) |
 | **Apple** | SerDes Design and Validation Engineer | San Diego | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674207/serdes-design-and-validation-engineer) |
@@ -433,6 +433,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Gotion** | Production Quality Engineer | Manteno, Illinois | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gotion/jobs/8652201002) |
 | **Apple** | Automation Quality Engineer | Sunnyvale | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673512/automation-quality-engineer) |
 | **Cummins** | Global Mfg. Quality Engineer-Welding ... | Indianapolis, IN,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433174) |
 | **Bosch Group** | Customer Quality Engineer_Steering | Plymouth, MI | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139360559) |
@@ -512,7 +513,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Axon** | Manufacturing Quality Engineer II | Phoenix, Arizona,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/6642777003) |
 | **Astranis** | Production Quality Engineer | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4572174006) |
 | **Gotion** | Production Quality Engineer | Manteno, Illinois | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gotion/jobs/7604600002) |
-| **Gotion** | Supplier Quality Engineer | Manteno, Illinois | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gotion/jobs/7171103002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -573,7 +573,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3020 current opportunities from 312 companies**
+**🎯 3014 current opportunities from 311 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
