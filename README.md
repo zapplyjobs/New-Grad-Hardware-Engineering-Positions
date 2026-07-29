@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-4050-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3389-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-4023-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3364-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-348-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -100,9 +100,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oklo** | Mechanical Design Engineer - Fuel Man... | Idaho Falls, ID o... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/6130061004) |
 | **Zipline** | Supplier Industrialization Engineer | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7820558003) |
 | **Apple** | Site Reliability Engineer, Apple Data... | Austin | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674345/site-reliability-engineer-apple-data-platform) |
-| **TikTok** | Efficiency Analyst/Methodologist Proj... | Los Angeles, Cali... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7667248888101685509) |
-| **TikTok** | Efficiency Analyst/Methodologist Proj... | New York, New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7667248888103782661) |
 | **TikTok** | Site Reliability Engineer, TikTok Gen... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7599929157435509045) |
+| **TikTok** | Design Technologist, Ads | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7663186070863956229) |
+| **TikTok** | TikTok R&D Engineer (Open Platform) | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7662556320030378293) |
 | **Smiths Group** | Application / Customer Engineer I | 93 Lexington Driv... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000140516099) |
 | **Northwood Space** | Electrical Engineer- Fleet Operations... | Torrance, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/81f90857-199e-4848-a21a-d5770fb0be6d/application) |
 | **Figma** | Product Designer, CMS | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/figma/jobs/6126976004?gh_jid=6126976004) |
@@ -425,7 +425,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ICF** | ServiceNow Test Engineer | Reston, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ServiceNow-Test-Engineer_R2602445) |
 | **Annapurna Labs (U.S.) Inc.** | Post-Silicon Systems Validation Engin... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10475661/post-silicon-systems-validation-engineer-i-annapurna-labs) |
 | **onsemi** | MTS, Analog Design Engineer | East Greenwich, R... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505802) |
-| **Symbotic** | System Reliability Test Engineer | USA Remote & Travel | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/System-Reliability-Test-Engineer_R6749) |
 | **Lightmatter** | Photonics Hardware Validation Engineer | Mountain View, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/lightmatter/jobs/5303113008?gh_jid=5303113008) |
 | **True Anomaly** | Mechanical Test Engineer | Long Beach, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182937007) |
 | **Neros Technologies** | Hardware Test Engineer - Electrical | Torrance, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/nerostechnologies/jobs/5182383007) |
@@ -436,6 +435,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **DoorDash** | Reliability Test Engineer, DoorDash Air | San Francisco, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8017150) |
 | **Graphcore** | Power and Performance Validation Engi... | Austin, Texas, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8595061002) |
 | **Rocket Lab** | RF Test Engineer I/II | Long Beach, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7773701003) |
+| **Relativity Space** | Manufacturing Test Engineer II, Pneum... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8588815002?gh_jid=8588815002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -524,7 +524,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Moog** | Quality Engineering | Torrance, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Quality-Engineering_R-26-18916) |
 | **ALTEN Technology** | Supplier Quality Engineer | Oceanside, Califo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5189129007) |
 | **Anduril** | Manager, Product Quality Engineering,... | Quonset, Rhode Is... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5183569007?gh_jid=5183569007) |
-| **Symbotic** | Quality Engineer | USA Remote & Trav... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel---MI/Quality-Engineer_R7289) |
 | **Zipline** | Hardware Test & Prototype Technician,... | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7802145003) |
 | **Anduril** | Product Quality Engineer | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5175601007?gh_jid=5175601007) |
 | **AMD** | Switch Quality Engineer | Secaucus, NJ, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87844/login) |
@@ -547,6 +546,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **IEM** | Supplier Quality Engineer | Jacksonville, Flo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4244090009) |
 | **Gotion** | Customer Quality Engineer | Manteno, Illinois | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gotion/jobs/8483041002) |
 | **Redwood Materials** | Field Quality Engineer, Energy Storage | San Francisco, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/5835346004?gh_jid=5835346004) |
+| **SpaceX** | Hardware Test Automation Engineer, Sa... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8440972002?gh_jid=8440972002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -607,7 +607,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 4050 current opportunities from 348 companies**
+**🎯 4023 current opportunities from 348 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
