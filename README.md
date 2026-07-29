@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-4049-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3385-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-4046-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3384-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-352-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Zipline** | Supplier Industrialization Engineer | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7820558003) |
 | **TikTok** | Site Reliability Engineer, TikTok Gen... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7599929157435509045) |
 | **TikTok** | Design Technologist, Ads | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7663186070863956229) |
 | **TikTok** | TikTok R&D Engineer (Open Platform) | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7662556320030378293) |
@@ -148,6 +149,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Data Services, Inc.** | Data Center Structural Engineer, DC D... | Herndon, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487259/data-center-structural-engineer-dc-design-engineering) |
 | **Amazon.com Services LLC** | System Development Engineer, ESCAPE | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487058/system-development-engineer-escape) |
 | **Atlantic Health System** | Nuclear Medicine Technologist Full Time | Hackettstown, NJ,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30952) |
+| **Cummins** | Controls Engineer | Maxton, NC, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431937) |
 | **Cummins** | Instrumentation Engineering Technicia... | Columbus, IN, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2432615) |
 | **Dell Technologies** | Field Service Engineer 2- College Sta... | TX, United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295583) |
 | **Honeywell** | Chemical Engineer II | Allentown, PA, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/152308) |
@@ -155,6 +157,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JPMorgan Chase** | Site Reliability Engineer II | Chicago, IL, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210747513) |
 | **Sherwin-Williams** | Process Engineer II | Richmond, KY, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619030) |
 | **Vertiv** | Pre-Order MV SWGR Electrical Designer | Anderson, SC, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20273217) |
+| **Vertiv** | ERS - Power Study Electrical Engineer... | Atlanta, GA, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278259) |
 | **WSP** | Federal Programs – Property & Buildin... | Arlington, VA, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90290) |
 | **WSP** | Early Career Electrical Engineer | Oradell, NJ, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91592) |
 | **WSP** | Manager, Management Consultancy | Indianapolis, IN,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92044) |
@@ -163,9 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Data Services, Inc.** | Cloud Hardware Development Engineer, ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487277/cloud-hardware-development-engineer-hardware-engineering-services-aws-hardware-engineering) |
 | **Gilead Sciences** | Device Engineer III | California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Device-Engineer-III_R0053812-1) |
 | **Medtronic** | Process Engineer II | Brooklyn | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Brooklyn-Center-Minnesota-United-States-of-America/Process-Engineer-II_R68492-1) |
-| **Johnson Controls** | Fire Alarm Installer | Virginia | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Fire-Alarm-Installer_WD30275585) |
-| **GE Healthcare** | Electronics Technician (1st Shift - M... | Salt Lake City | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Electronics-Technician--1st-Shift---M-F-6-15-AM---3-00-PM-_R4044182-1) |
-| **KLA** | System Design Engineer | Milpitas, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/System-Design-Engineer_2639071) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -513,7 +513,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Relativity Space** | Quality Engineer II, Test & Launch | Stennis Space | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8641196002?gh_jid=8641196002) |
 | **Contoro Robotics** | Robotics Engineer Intern - Test & Val... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/contoro/cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5/application) |
 | **Arrow Electronics** | Quality Engineer | Phoenix, Arizona, AZ | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://arrow.wd1.myworkdayjobs.com/AC/job/US-AZ-Phoenix-Arizona-East-Sky-Harbor-Cir/Quality-Engineer_R243300) |
-| **Vertiv** | Quality Engineer Business Systems & A... | Westerville, OH, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272093) |
 | **Globus Medical** | Quality Engineer | Memphis, TN | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Memphis-TN/Quality-Engineer_JR107078) |
 | **Microchip Technology** | Manager - Quality Engineering | Beverly Tozer, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/MA---Beverly-Tozer/Manager---Quality-Engineering_R2211-25) |
 | **Moog** | Quality Engineering | Torrance, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Quality-Engineering_R-26-18916) |
@@ -546,6 +545,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Waymo** | Product Quality Engineer | Mountain View, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7684041) |
 | **IEM** | Quality Engineer - Customer Account M... | Jacksonville, Flo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4174752009) |
 | **Figure AI** | Supplier Quality Engineer, BotQ | San Jose, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4660300006) |
+| **SpaceX** | Hardware Test Specialist, Failure Ana... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8420958002?gh_jid=8420958002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -606,7 +606,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 4049 current opportunities from 352 companies**
+**🎯 4046 current opportunities from 352 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
