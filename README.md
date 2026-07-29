@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3716-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3125-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-353-blue?style=flat&logo=building)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3717-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3126-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-354-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Eight Sleep** | Design Intern NYC | New York City | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/0adea282-8c47-4c3b-962c-e5658ef02cdd/application) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **ByteDance** | Design Verification Engineer Graduate... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7551554573577750802) |
 | **ByteDance** | Site Reliability Engineer Project Int... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7600174040255007029) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bloom Energy** | Manufacturing Change Control Manager | Newark, Delaware | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Newark-Delaware/Manufacturing-Change-Control-Manager_JR-22580) |
 | **Daimler Truck** | Occupant Controls System Owner I | Portland, OR US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Occupant-Controls-System-Owner-I_DT-18907) |
 | **Daimler Truck** | Engineering Technician - Vehicle Test | Detroit, MI US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Engineering-Technician---Vehicle-Test_DT-19043) |
-| **Altera** | Director of Engineering | San Jose, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Director-of-Engineering_R02899) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -603,7 +603,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3716 current opportunities from 353 companies**
+**🎯 3717 current opportunities from 354 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
