@@ -66,7 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Anduril** | Mechanical Engineering Manager, Manuf... | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5187161007?gh_jid=5187161007) |
+| **Intuitive** | Manager, Industrial Engineering | Sunnyvale, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000140538639) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **ByteDance** | Design Verification Engineer Graduate... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7551554573577750802) |
 | **ByteDance** | Site Reliability Engineer Project Int... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7600174040255007029) |
