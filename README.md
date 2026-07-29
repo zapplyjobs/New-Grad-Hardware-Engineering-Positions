@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-4073-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3409-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-4067-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3405-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-352-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Veolia Environnement SA** | Energy Analyst | New York, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140559759) |
 | **Relativity Space** | Materials & Processes Technical Speci... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8654505002?gh_jid=8654505002) |
 | **Olsson** | Railroad Construction Observer | Dallas, TX; Denve... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5310187008) |
 | **Trace3** | Drafter | Colorado Springs, CO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/8095171) |
@@ -161,11 +162,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sierra Nevada Corporation** | Systems Engineer II | Lone Tree, CO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-II_R0030150) |
 | **Rocket Lab** | Spacecraft Mechanical Engineer I | Long Beach, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7776861003) |
 | **Amazon Data Services, Inc.** | Data Center Structural Engineer, DC D... | Herndon, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487259/data-center-structural-engineer-dc-design-engineering) |
-| **Amazon Data Services, Inc.** | Network Development Engineer, ML Newo... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487662/network-development-engineer-ml-nework-engineering) |
 | **Amazon Data Services, Inc.** | Network Development Engineer, ML Newo... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487664/network-development-engineer-ml-nework-engineering) |
+| **Amazon Data Services, Inc.** | Network Development Engineer, ML Newo... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487662/network-development-engineer-ml-nework-engineering) |
 | **Amazon Web Services, Inc.** | Systems Development Engineer - NitroS... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487648/systems-development-engineer-nitrossd-nitrossd) |
 | **Amazon Web Services, Inc.** | Sr Systems Development Engineer, AWS ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487651/sr-systems-development-engineer-aws-hardware-engineering-services-ai-ultraservers) |
-| **Amazon.com Services LLC** | System Development Engineer, ESCAPE | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487058/system-development-engineer-escape) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -217,7 +217,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Avnet** | Associate Field Application Engineer | Edina, Minnesota,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071) |
 | **Carnegie Mellon University** | Research Associate III - Robotics Ins... | Pittsburgh, PA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate-III---Robotics-Institute_2024910) |
 | **AMD** | FPGA Design Engineer (Timing) | San Jose, CA, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/89010/login) |
-| **Varda Space** | Spacecraft Firmware Engineer, C++ | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7817902003) |
 | **Microsoft** | Firmware Engineer II | Redmond, Washingt... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556933151) |
 | **Broadcom** | ASIC DFT Engineer | California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/ASIC-DFT-Engineer_R025757-4) |
 | **Intel** | SoC Power and Performance Engineer | US, California, S... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Power-and-Performance-Engineer_JR0281255) |
@@ -266,7 +265,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cummins** | Mechanical Engineering Drafting Assoc... | Columbus, IN, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430791) |
 | **Redwood Materials** | Associate Controls Engineer | Ridgeville, South... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6116835004?gh_jid=6116835004) |
 | **Zoetis** | Technical Associate | Lincoln | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Technical-Associate_JR00021193-1) |
-| **Carrier Global** | Associate Field Engineer | CANVO: Carrier-Ho... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CANVO-Carrier-Home-Nevada-Remote-Location-Remote-City-NV-88901-USA/Associate-Field-Engineer_30206209) |
 | **DRW** | FPGA Intern | Chicago | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
 | **BillionToOne** | Research Associate | Menlo Park, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4714147005) |
 | **Jump Trading** | Campus FPGA Engineer (Intern) | Chicago | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
@@ -277,6 +275,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Astranis** | Reliability Design Associate (Fall 2026) | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4681416006) |
 | **BillionToOne** | Automation Service Engineering Associ... | Union City, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4706019005) |
 | **Waymo** | ASIC Design Verification Engineer | Mountain View, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7991417) |
+| **BillionToOne** | Automation Service Engineering Associ... | Menlo Park, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4703333005) |
+| **Braze** | AV Associate | New York City | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/7979912?gh_jid=7979912) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -606,7 +606,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 4073 current opportunities from 352 companies**
+**🎯 4067 current opportunities from 352 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
