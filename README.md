@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3910-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3300-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-4026-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3371-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-354-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -311,8 +311,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Penn State University** | Embedded Systems and Hardware Co-Op | Warminster, PA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/Student/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-1) |
 | **Anduril** | Embedded Linux Engineer | Seattle, Washingt... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5172006007?gh_jid=5172006007) |
 | **Figure AI** | Firmware Intern [Fall 2026] | San Jose, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
+| **AMD** | Firmware Memory Engineer | Austin, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87156/login) |
 | **SpaceX** | Security Engineer (Embedded OT) | Cape Canaveral, FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8593389002?gh_jid=8593389002) |
 | **SpaceX** | Security Engineer (Embedded OT) | Hawthorne, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8593388002?gh_jid=8593388002) |
+| **AMD** | Technical Marketing Engineer- Embedde... | San Jose, CA, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/85759/login) |
+| **AMD** | Hardware Systems Design Engineer – x8... | San Jose, CA, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/86644/login) |
 | **Lightmatter** | Chip Firmware Validation Engineer | Mountain View, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/lightmatter/jobs/5127212008?gh_jid=5127212008) |
 | **Alarm.com** | Engineering Manager - Embedded Firmware | Boston, Massachus... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8392931002) |
 | **Cresta** | Embedded Ai Expert | United States (Re... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/4919163008) |
@@ -517,11 +520,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Symbotic** | Quality Engineer | USA Remote & Trav... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel---MI/Quality-Engineer_R7289) |
 | **Zipline** | Hardware Test & Prototype Technician,... | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7802145003) |
 | **Anduril** | Product Quality Engineer | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5175601007?gh_jid=5175601007) |
+| **AMD** | Switch Quality Engineer | Secaucus, NJ, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87844/login) |
 | **Alarm.com** | Quality Engineer (Video) | Tysons, Virginia | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8606157002) |
 | **Anduril** | Supplier Quality Engineering, Rocket ... | McHenry, Mississi... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5178575007?gh_jid=5178575007) |
 | **VAST** | 2026 Fall Internship - Supplier Quali... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4691428006?gh_jid=4691428006) |
 | **BillionToOne** | Quality Engineer, Prenatal | Union City, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4707547005) |
 | **Alarm.com** | Quality Engineer | Tysons, Virginia | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8567187002) |
+| **AMD** | HSIO Validation Execution Engineer | Austin, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/86935/login) |
+| **AMD** | Cores Post Silicon Validation, Operat... | Folsom, CA, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/86634/login) |
 | **Scout Motors** | Supplier Quality Engineer | Blythewood/Columb... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5146366007) |
 | **Scout Motors** | Supplier Quality Engineer - Press Parts | Columbia, South C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5146284007) |
 | **Astera Labs** | Director Post-Silicon Product Enginee... | San Jose, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4702088005) |
@@ -540,9 +546,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | Hardware Test Specialist, Failure Ana... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8420958002?gh_jid=8420958002) |
 | **Alarm.com** | Quality Engineer I | Tysons, Virginia | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8394361002) |
 | **VAST** | Supplier Quality Engineer | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4650445006?gh_jid=4650445006) |
-| **Prolific** | Human Data Quality Engineer (Founding... | North America | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.eu.greenhouse.io/prolific/jobs/4751259101) |
-| **DoorDash** | Manufacturing Quality Engineer | Fremont, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7490108) |
-| **Figure AI** | Quality Engineer, Metrology | San Jose, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4626806006) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -603,7 +606,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3910 current opportunities from 354 companies**
+**🎯 4026 current opportunities from 354 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
