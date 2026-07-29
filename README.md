@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-4027-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3372-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-4031-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3374-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-354-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -429,12 +429,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ambarella** | Mixed Signal Engineer Intern | Headquarters | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105) |
 | **Marvell** | Analog Design Intern - Master's Degre... | Westlake Village, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475-1) |
 | **DoorDash** | Reliability Test Engineer, DoorDash Air | San Francisco, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8017150) |
+| **Graphcore** | Power and Performance Validation Engi... | Austin, Texas, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8595061002) |
 | **Motional** | AV Test Engineer | Las Vegas, Nevada... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motional.com/open-positions/?gh_jid=7780416003#/7780416003) |
 | **Rocket Lab** | RF Test Engineer I/II | Long Beach, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7773701003) |
 | **Relativity Space** | Manufacturing Test Engineer II, Pneum... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8588815002?gh_jid=8588815002) |
 | **Tenstorrent** | Analog Design Engineer | North America | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5160368007) |
 | **Scout Motors** | ADAS Calibration & Validation Engineer | Charlotte, North ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5155610007) |
-| **Scout Motors** | ADAS Calibration and Validation Engineer | Charlotte, North ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5158567007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -522,6 +522,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Anduril** | Product Quality Engineer | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5175601007?gh_jid=5175601007) |
 | **AMD** | Switch Quality Engineer | Secaucus, NJ, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87844/login) |
 | **Alarm.com** | Quality Engineer (Video) | Tysons, Virginia | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8606157002) |
+| **Graphcore** | Director - Post-Silicon Validation (F... | Austin, Texas, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8615115002) |
 | **Anduril** | Supplier Quality Engineering, Rocket ... | McHenry, Mississi... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5178575007?gh_jid=5178575007) |
 | **VAST** | 2026 Fall Internship - Supplier Quali... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4691428006?gh_jid=4691428006) |
 | **BillionToOne** | Quality Engineer, Prenatal | Union City, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4707547005) |
@@ -545,7 +546,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Figure AI** | Supplier Quality Engineer, BotQ | San Jose, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4660300006) |
 | **SpaceX** | Hardware Test Specialist, Failure Ana... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8420958002?gh_jid=8420958002) |
 | **Alarm.com** | Quality Engineer I | Tysons, Virginia | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8394361002) |
-| **VAST** | Supplier Quality Engineer | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4650445006?gh_jid=4650445006) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -606,7 +606,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 4027 current opportunities from 354 companies**
+**🎯 4031 current opportunities from 354 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
