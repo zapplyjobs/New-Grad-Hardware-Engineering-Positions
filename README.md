@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-4081-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3414-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-4079-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3413-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-352-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -160,8 +160,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sierra Nevada Corporation** | Systems Engineer II | Lone Tree, CO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-II_R0030150) |
 | **Rocket Lab** | Spacecraft Mechanical Engineer I | Long Beach, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7776861003) |
 | **Amazon Data Services, Inc.** | Data Center Structural Engineer, DC D... | Herndon, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487259/data-center-structural-engineer-dc-design-engineering) |
-| **Amazon Data Services, Inc.** | Network Development Engineer, ML Newo... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487664/network-development-engineer-ml-nework-engineering) |
 | **Amazon Data Services, Inc.** | Network Development Engineer, ML Newo... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487662/network-development-engineer-ml-nework-engineering) |
+| **Amazon Data Services, Inc.** | Network Development Engineer, ML Newo... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487664/network-development-engineer-ml-nework-engineering) |
 | **Amazon Web Services, Inc.** | Systems Development Engineer - NitroS... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487648/systems-development-engineer-nitrossd-nitrossd) |
 | **Amazon Web Services, Inc.** | Sr Systems Development Engineer, AWS ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487651/sr-systems-development-engineer-aws-hardware-engineering-services-ai-ultraservers) |
 | **Amazon.com Services LLC** | System Development Engineer, ESCAPE | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487058/system-development-engineer-escape) |
@@ -304,7 +304,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intel** | Firmware Solutions Engineer | US, Oregon, Hills... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Firmware-Solutions-Engineer_JR0285491) |
 | **Western Digital** | Engineer Embedded System Engineering | Irvine, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138185309) |
 | **Apple** | Firmware Security Researcher, SEAR | Cupertino | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200672673/firmware-security-researcher-sear) |
-| **MatX** | System Software Engineer - Linux Kern... | Mountain View, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/matx/jobs/5326322008) |
 | **Axon** | Embedded Technical Account Manager - ... | Remote, United St... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7791817003) |
 | **SpaceX** | Embedded Security Engineer (Starlink) | Bastrop, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8624836002?gh_jid=8624836002) |
 | **Redwood Materials** | Embedded Software Engineer – Power El... | San Francisco, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6003203004?gh_jid=6003203004) |
@@ -607,7 +606,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 4081 current opportunities from 352 companies**
+**🎯 4079 current opportunities from 352 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
