@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3973-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3316-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3974-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3317-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-346-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Etched** | Physical Design Engineer - Block Leve... | Austin | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/127f9760-3069-4152-b882-4e76b8f4ff1d/application) |
 | **Saronic Technologies** | Electrical Engineering Technician - RF | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/38dc2972-7b57-4f65-a1d4-f6e3ce105ee3/application) |
 | **Saronic Technologies** | Electrical Engineer – UUVs & Undersea... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/05c92ce4-4c7f-4bc8-a9ac-5675e76e4479/application) |
 | **Baseten** | IT Support/Operations Engineer | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836/application) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ABB** | Project Manager | Fort Smith, Arkan... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-USA/Project-Manager_JR00041009) |
 | **Caterpillar** | Engineering Technical Steward - Produ... | Mossville Illinoi... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Engineering-Technical-Steward---Product-Sound_R0000383934) |
 | **Lowe's** | Sr Field Engineer - Emerging Technology | Lowe's Charlotte ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Sr-Field-Engineer---Emerging-Technology_JR-02572948-1) |
-| **Motorola Solutions** | R56 Communications Site Auditor / Fie... | Alabama Remote Wo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Alabama-Remote-Work/R56-Communications-Site-Auditor---Field-Engineer_R66573) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -607,7 +607,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3973 current opportunities from 346 companies**
+**🎯 3974 current opportunities from 346 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
