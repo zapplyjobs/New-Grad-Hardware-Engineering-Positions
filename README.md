@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3971-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3315-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3972-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-3316-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-346-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Saronic Technologies** | Electrical Engineering Technician - RF | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/38dc2972-7b57-4f65-a1d4-f6e3ce105ee3/application) |
+| **Saronic Technologies** | Electrical Engineer – UUVs & Undersea... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/05c92ce4-4c7f-4bc8-a9ac-5675e76e4479/application) |
 | **Baseten** | IT Support/Operations Engineer | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836/application) |
 | **SpaceX** | Electrical Engineer, Facilities (Star... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8649939002?gh_jid=8649939002) |
 | **SpaceX** | Facilities Engineer, Electrical (Star... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8649975002?gh_jid=8649975002) |
@@ -164,8 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lowe's** | Sr Field Engineer - Emerging Technology | Lowe's Charlotte ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Sr-Field-Engineer---Emerging-Technology_JR-02572948-1) |
 | **Motorola Solutions** | R56 Communications Site Auditor / Fie... | Alabama Remote Wo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Alabama-Remote-Work/R56-Communications-Site-Auditor---Field-Engineer_R66573) |
 | **Motorola Solutions** | Product Manager - Business Intelligen... | Illinois Remote W... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Product-Manager---Business-Intelligence---Analytics_R62892) |
-| **Motorola Solutions** | ECH Field Engineering Manager - West ... | Texas Remote Work... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Texas-Remote-Work/ECH-Field-Engineering-Manager---West-Coast-Region_R66942) |
-| **Curtiss-Wright** | Mechanical Engineering Manager | Round Rock, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-TX-Round-Rock-Nuclear/Sr-Engineering-Supervisor_JR11971-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -607,7 +607,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3971 current opportunities from 346 companies**
+**🎯 3972 current opportunities from 346 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
