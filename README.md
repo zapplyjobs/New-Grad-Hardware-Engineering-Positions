@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3211-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2647-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-331-blue?style=flat&logo=building)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-3156-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2600-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-330-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2027?style=flat&logo=calendar)
 
 </div>
@@ -66,12 +66,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Materials Engineer - Polymers | Ka, IN | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Materials-Engineer---Polymers_01862639) |
-| **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670009669494704437) |
-| **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670004502598060341) |
-| **ByteDance** | Backend Development Engineer Graduate... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668484998475663621) |
-| **Google** | Network Operations Engineer, Universi... | United States | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/124862995078488774) |
-| **Google** | Engineering Technician, Mechanical As... | United States | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92816039691068102) |
+| **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670009669494704437) |
+| **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670004502598060341) |
+| **ByteDance** | Backend Development Engineer Graduate... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668484998475663621) |
+| **Google** | Network Operations Engineer, Universi... | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/124862995078488774) |
+| **Google** | Engineering Technician, Mechanical As... | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92816039691068102) |
+| **RTX** | Materials Engineer - Polymers | Ka, IN | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Materials-Engineer---Polymers_01862639) |
 | **Varda Space** | Space Process Engineer, FMEA & Manufa... | El Segundo, California... | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7840152003) |
 | **Amentum** | Automotive Worker (PREPO) | Fort Polk, LA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-LA-Fort-Polk/Automotive-Worker--PREPO-_R0167180) |
 | **Caterpillar** | Robotics Engineer | Irving, Texas | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Robotics-Engineer_R0000387369-1) |
@@ -117,15 +117,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AMD** | Field Applications Engineer, Server D... | Austin, TX, United States | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/85436/login) |
 | **AMD** | Field Applications Engineer, Server D... | Austin, TX, United States | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/85443/login) |
 | **SpaceX** | RF Systems Analysis Engineer, Regulat... | Washington, DC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8691059002?gh_jid=8691059002) |
-| **Baker Hughes** | Applications Engineer - DrillBit | 2 Locations | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/AO-LA-LUANDA-BOAVISTA-SONILS-OILFIELD-SERVICE-CENTER/Applications-Engineer---DrillBit_R165258) |
+| **Entegris** | Quality Manager | Reno, NV | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Reno-NV/Quality-Manager_REQ-11762) |
+| **Entegris** | Engineer II, Product Development Engi... | Bedford, MA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Engineer-II--Product-Development-Engineering_REQ-13634) |
+| **Micron Technology** | RDA/Metrology Technician | Boise, ID - ID1 | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/RDA-Metrology-Technician_JR106457) |
+| **Micron Technology** | DMTS Design Engineer | Boise ID Main Site | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/DMTS-Design-Engineer_JR108518) |
+| **Micron Technology** | Process Integration Engineer | Boise, ID - Main Site | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Process-Integration-Engineer_JR108071) |
+| **FLIR Systems** | Component Engineer | El Segundo, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---El-Segundo-CA/Component-Engineer_REQ34791-1) |
+| **Baxter International** | Maintenance Specialist (Temp to Hire)... | Batesville, Indiana | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://baxter.wd1.myworkdayjobs.com/baxter/job/Batesville-Indiana/Maintenance-Specialist--Temp-to-Hire--2nd-Shift_JR-207282-1) |
 | **Analog Devices** | BioChemical Engineer | US, MA, Wilmington | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/BioChemical-Engineer_R264157) |
 | **ASML** | Vacuum System Engineer | Wilton, CT, USA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Vacuum-System-Engineer_J-00349793) |
 | **ASML** | Field Service Engineer | Austin, TX, USA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Field-Service-Engineer_J-00347603-1) |
 | **ASML** | Spherical CNC Process Engineer_ Wilto... | Wilton, CT, USA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Spherical-CNC-Process-Engineer--Wilton-Factory-Optics_J-00349041) |
 | **RTX** | Raytheon Electrical Engineering Inter... | Plano, TX | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Raytheon-Electrical-Engineering-Intern--Summer-2027--Onsite-_01864023) |
 | **Broadcom** | Physical Design Engineer | CA San Jose Innovation... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R026689) |
-| **Broadcom** | Physical Design Engineer | 2 Locations | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/Physical-Design-Engineer_R026586) |
-| **Broadcom** | Physical Design Engineer | 2 Locations | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/Physical-Design-Engineer_R026585) |
 | **Daimler Truck** | Mechanical Product Design Engineer II | Portland, OR US | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Mechanical-Product-Design-Engineer-II_DT-19148) |
 | **Radiance Technologies** | Security Specialist | Huntsville, AL | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Security-Specialist_HR102338) |
 | **GlobalFoundries** | Experienced Industrial Engineer | New York | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Experienced-Industrial-Engineer_JR-2603937) |
@@ -162,10 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AES Corporation** | Transmission Planning Operations Engi... | Indianapolis, IN | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Transmission-Planning-Operations-Engineer_R1064158) |
 | **Applied Materials** | Process Engineer IV | Santa Clara,CA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2624179) |
 | **Applied Materials** | PPPM (Project Portfolio Program Manager) | AustinTX | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/PPPM--Project-Portfolio-Program-Manager-_R2625133) |
-| **Applied Materials** | Module Process Engineer V | Albany,NY | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Module-Process-Engineer-Director----E6-_R2622538) |
-| **HNTB** | Traffic Engineer II - DTLA Office | Los Angeles, CA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/Traffic-Engineer-II---DTLA-Office_R-31014) |
-| **HNTB** | Geotechnical Engineer II | New Orleans, LA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/New-Orleans-LA/Geotechnical-Engineer-II_R-30940) |
-| **HNTB** | Bridge Project Engineer | Houston, TX | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Houston-TX-Fannin/Bridge-Project-Engineer_R-30121) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,13 +177,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | ASIC Design Engineer Intern (Video Si... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670332179383699717) |
+| **ByteDance** | ASIC Design Engineer Intern (Video Si... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670332179383699717) |
 | **Waymo** | ML ASIC Design Engineer | New York City, NY | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8116209) |
 | **ABB** | Associate Project Engineer (Electrical) | USA, NC, Mebane | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Associate-Project-Engineer--Electrical-_JR00028524) |
 | **Apple** | SoC Physical Design Engineer, PnR | Austin | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200676744/soc-physical-design-engineer-pnr) |
 | **Scale AI** | Operations Program Manager / Associat... | San Francisco, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4722445005) |
 | **Carrier Global** | Associate Field Engineer - Automated ... | CAT16: CCS-Dallas, 190... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT16-CCS-Dallas-1901-N-Glenville-Drive-Richardson-TX-75081-USA/Associate-Field-Engineer-Automated-Logic_30204650) |
-| **Broadcom** | Digital Design RTL Engineer | 2 Locations | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Digital-Design-RTL-Engineer_R026588) |
 | **Abbott** | Associate Software Engineer | Texas | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107-1) |
 | **Abbott** | Clinical Research, Associate II | California | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Clinical-Research--Associate-II_31158478-1) |
 | **AeroVironment** | FPGA Engineer | Albuquerque, NM | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/Albuquerque-NM/FPGA-Engineer_8330) |
@@ -229,9 +228,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Micron** | HBM SoC Physical Design Engineer | Folsom, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/HBM-SoC-Physical-Design-Engineer_JR107315) |
 | **RTX** | FPGA Engineer I | Huntsville, AL | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Engineer-I_01863350-1) |
 | **Aerospace Corporation** | Optical Thin Films Research Associate | El Segundo, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Optical-Thin-Films-Research-Associate_R015972) |
-| **FLIR Systems** | Embedded Systems & RF Firmware Engineer | Rancho Cordova, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/RF---Microwave-Power-Amplifier-Design-Engineer_REQ27443) |
 | **Elanco** | Process Engineering Associate (Entry ... | Clinton, IN | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Process-Engineering-Associate--Entry-Level-_R0026583) |
-| **Parsons** | Associate Structural Engineer | GA, Sandy Springs, R18... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---GA-Sandy-Springs/Associate-Structural-Engineer_R180973) |
 | **Amazon Development Center U.S., Inc.** | SDE - CPLD / FPGA | Seattle, WA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10488715/sde-cpld-fpga) |
 | **Amazon Development Center U.S., Inc.** | SDE - CPLD / FPGA | Seattle, WA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10488714/sde-cpld-fpga) |
 | **RTX** | Full Time Raytheon 2026 - Multi-Produ... | Ft Wayne, IN | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Full-Time-Raytheon-2026---Multi-Product-Power---Digital-FPGA-Engineer-II_01857266) |
@@ -240,7 +237,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Micron** | Firmware Engineer | MAX | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Firmware-Engineer_JR103269) |
 | **AMD** | SoC Design Verification Engineer | San Jose, CA, United S... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/89123/login) |
 | **Anduril** | Firmware Engineer, Connected Warfare | Costa Mesa, California... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5180703007?gh_jid=5180703007) |
-| **Broadcom** | ASIC Verification Engineer | 2 Locations | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/ASIC-Verification-Engineer_R026559) |
 | **Globus Medical** | Associate Service / Repair Technician | Memphis, TN | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Memphis-TN/Associate-Service---Repair-Technician_JR106960) |
 | **WSP** | Associate Environmental Scientist | Houston, TX, United St... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91989) |
 | **Carnegie Mellon University** | Research Associate III - Robotics Ins... | Pittsburgh, PA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate-III---Robotics-Institute_2024910) |
@@ -300,12 +296,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northrop Grumman** | Engineer Embedded Software | Illinois | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Engineer-Embedded-Software_R10243256) |
 | **Arrow Electronics** | Embedded Engineer (eInfochip Inc) | North Billerica, MA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://arrow.wd1.myworkdayjobs.com/AC/job/US-MA-North-Billerica-Massachusetts/Embedded-Engineer--eInfochip-Inc-_R247137) |
 | **Motorola Solutions** | Embedded Software Engineer | Schaumburg, IL | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Embedded-Software-Engineer_R67073) |
-| **Parsons** | Embedded Engineer - TS/SCI | VA, Centreville, R175642 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Centreville/Embedded-Engineer---TS-SCI_R175642-1) |
+| **Parsons** | Firmware-Savvy CNO Developer (TS/SCI ... | MD, Annapolis Junction... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---MD-Annapolis-Junction/Firmware-Savvy-CNO-Developer--TS-SCI-w-Poly-_R180581) |
+| **Parsons** | Firmware-Savvy CNO Developer (TS/SCI ... | MD, Annapolis Junction... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---MD-Annapolis-Junction/Firmware-Savvy-CNO-Developer--TS-SCI-w-Poly-_R177822-1) |
 | **Verkada** | Embedded Engineer - Streaming | San Mateo, CA United S... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5195862007) |
 | **Redwood Materials** | Embedded Software Engineer Intern - F... | San Francisco, Califor... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) |
 | **Aerospace Corporation** | Embedded Software Engineer | El Segundo, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Embedded-Software-Engineer_R015766) |
 | **General Motors** | Software Engineer - Vehicle Mechatron... | Milford, Michigan, Uni... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer---Vehicle-Mechatronic-Embedded-Controls_JR-202613126) |
-| **FLIR Systems** | Embedded Software Developer – Robotic... | Orem, UT | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Orem-UT/System-Software-Integration-Engineer--US-Citizenship-Required-_REQ34613) |
 | **Mach Industries** | Embedded Autonomy Engineer | Huntington Beach, CA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach/837b418d-784a-4bee-b59c-2ac6298ed649) |
 | **Penn State University** | Embedded Systems and Hardware Co-Op | Warminster, PA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/Student/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-1) |
 | **Redwood Materials** | Embedded Software Engineer – Power El... | San Francisco, Califor... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6003203004?gh_jid=6003203004) |
@@ -331,12 +327,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | EMC Test Engineer, Google Cloud | United States | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110906807014040262) |
+| **Google** | EMC Test Engineer, Google Cloud | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110906807014040262) |
 | **Apple** | AI Test Engineer, Sensing & Connectivity | San Diego | 15h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200676692/ai-test-engineer-sensing-connectivity) |
 | **SpaceX** | Automation and Test Engineer, Satelli... | Redmond, WA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8676210002?gh_jid=8676210002) |
 | **Redwood Materials** | Software Validation Engineer | San Francisco, Califor... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6139226004?gh_jid=6139226004) |
 | **Torc Robotics** | Quality Test Engineer, II | Fort Worth, Texas | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8687885002) |
 | **Axon** | System Test Engineer II | Sterling, Virginia, Un... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7577042003) |
+| **FLIR Systems** | Test Engineer | Garland, TX | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Garland-TX/Test-Engineer_REQ35904) |
 | **Analog Devices** | Post-Silicon Validation Engineer | US, MA, Wilmington | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Staff-AI-ML-Applications-Engineer---Product-Validation---Test_R260874) |
 | **Crane Co.** | Test Engineer - Automated Test Equipment | Burbank, California | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Test-Engineer-II-III_JR101958) |
 | **HP Inc** | Power Engineer | Fort Collins, Colorado... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Power-Engineer---Voltage-Regulation-and-PSU---HP-Workstations_3164448-1) |
@@ -344,7 +341,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sierra Nevada Corporation** | Test Engineer III | Lone Tree, CO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Test-Engineer-III_R0030408) |
 | **General Motors** | Software Test Engineer | Milford, Michigan, Uni... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Test-Engineer_JR-202613803) |
 | **Northrop Grumman** | Systems Test Engineer - Hardware 2/3 | California | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Systems-Test-Engineer---Hardware-2-3_R10243134) |
-| **FLIR Systems** | Test Engineer | Garland, TX | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Garland-TX/Test-Engineer_REQ35904) |
 | **Magna** | Test Engineer | Holly, Michigan, US | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Holly-Michigan-US/Test-Engineer_R00245098) |
 | **NXP** | Analog Design Engineering | Chandler | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Analog-Design-Engineering_R-10066117) |
 | **Anduril** | Test Engineer | Bellevue, Washington, ... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5203326007?gh_jid=5203326007) |
@@ -405,7 +401,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Muon Space** | Camera Test Engineer II | Mountain View, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/muonspace/jobs/5199821007) |
 | **Crane Co.** | Aerospace Test Engineer | Burbank, California | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Test-Engineer-III_JR100701-1) |
 | **Polaris** | Test Engineer (Powertrain) | Wyoming, MN, USA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Test-Engineer--Powertrain-_R30041) |
-| **Parsons** | QA Test Engineer - Topsecret | VA, Centreville, R182715 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Centreville/QA-Test-Engineer---Topsecret_R182715) |
 | **Schweitzer Engineering Laboratories** | R&D Power Engineer | King of Prussia | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Senior-Engineer_2025-19055-1) |
 | **Schweitzer Engineering Laboratories** | Power Engineer | Washington Pullman | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Power-Engineer_2026-21885-1) |
 | **DoorDash** | Hardware Validation Engineer | Oakland, CA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8090031) |
@@ -431,6 +426,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nokia** | HW Design Eng - PCB Board Circuit Des... | United States | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38953) |
 | **Micron** | SMTS Analog Design Engineer, Mixed-Si... | Boise ID Main Site | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Principal-Analog-Design-Engineer---Mixed-Signal-PHY--Clocking---High-Speed-I-O-_JR99169) |
 | **Snap** | Integrated Circuit Design Verificatio... | Washington | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Remote---Washington/Integrated-Circuit-Design-Verification-Engineer_R0046055) |
+| **Altera** | Analog Circuit Design Engineer | San Jose, California, ... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Analog-Circuit-Design-Engineer_R02661) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -480,12 +476,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Program Quality Engineer | Melbourne, FL, US | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Melbourne-FL-US/Program-Quality-Engineer_329858) |
 | **Magna** | Jr Quality Engineer | Excelsior Springs, Mis... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Excelsior-Springs-Missouri-US/Jr-Quality-Engineer_R00255145) |
 | **Astranis** | Software Engineer - Hardware Test | San Francisco, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4702072006) |
+| **Monolithic Power Systems** | Customer Quality Engineer | San Jose, CA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Customer-Quality-Engineer_R-1535) |
 | **AeroVironment** | Quality Engineer III | Simi Valley, CA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Quality-Engineer-III_8287) |
 | **Cisco** | Customer Quality Engineer | San Jose, California, US | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Customer-Quality-Engineer_2017491-1) |
 | **Guidehouse** | Quality Assurance System Tester | Mclean, VA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Quality-Assurance-System-Tester_42692) |
 | **Generac** | Supplier Quality Engineer | Waukesha, WI - USA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Supplier-Quality-Engineer_JR13892) |
 | **Scout Motors** | Engineer, Whole Vehicle Test Requirem... | Novi, Michigan, United... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5200423007) |
-| **Monolithic Power Systems** | Customer Quality Engineer | San Jose, CA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Customer-Quality-Engineer_R-1535) |
 | **Lambda** | Hardware Quality Engineer | San Jose | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/9644bc3d-966a-4a5e-85ef-3afbe080a7a6) |
 | **RTX** | Factory Quality Engineer - 2nd shift | Tucson, AZ | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Factory-Quality-Engineer---2nd-shift_01863519) |
 | **Broadcom** | Test Development Engineer | Mendota Heights | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Mendota-Heights-Northland/Senior-Digital-Mixed-Signal--DMS--Verification-Engineer_R025692) |
@@ -504,7 +500,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cummins** | Site Quality Engineer | Bloomfield, CT, United... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433503) |
 | **RTX** | Quality Engineer - Second Shift | Riverside, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-RIVERSIDE-8200B1--8200-Arlington-Ave--BLDG-B1/Quality-Engineer---Second-Shift_01862147-1) |
 | **RTX** | Quality Engineer Maintenance Repair a... | He, DE | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/DE-HE-FRANKFURT-020--Victor-Slotosch-St-20--BLDG-20/Quality-Engineer-Maintenance-Repair-and-Operations--m-f-d-_01859265) |
-| **Broadcom** | ATE Test Development Engineer | 2 Locations | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/ATE-Test-Development-Engineer_R026355) |
 | **Caterpillar** | Quality Engineer | East Peoria, Illinois | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Quality-Engineer_R0000385705) |
 | **Applied Materials** | Manufacturing Quality Engineer II - (E2) | Austin,TX | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Quality-Engineer-II----E2-_R2621899) |
 | **Generac** | Manufacturing Quality Engineer IV - C... | South Portland, ME | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/South-Portland-ME---USA/Manufacturing-Quality-Engineer-IV---Clean-Energy_JR15092) |
@@ -522,6 +517,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Micron** | Spec Gas/ Specs Chem Global Supplier ... | Boise, ID - ID1 | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Spec-Gas--Specs-Chem-Global-Supplier-Quality-Engineering--SQE--Engineer_JR105296-1) |
 | **LVT** | Quality Engineer | Spanish Fork, Utah, Un... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5369362008) |
 | **Gotion** | Production Quality Engineer | Manteno, Illinois | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gotion/jobs/8652201002) |
+| **Broadcom** | ATE Test Development Engineer | CA San Jose Innovation... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ATE-Test-Development-Engineer_R026666) |
 | **Polaris** | Quality Engineer - 3rd Shift | Huntsville, AL, USA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Huntsville-AL-USA/Quality-Engineer---3rd-Shift_R30594-1) |
 | **Leidos** | Quality Engineer | Huntsville, AL | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Quality-Engineer_R-00186561) |
 | **Leidos** | Quality Engineer | Long Beach, MS | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Quality-Engineer_R-00188128) |
@@ -597,7 +593,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3211 current opportunities from 331 companies**
+**🎯 3156 current opportunities from 330 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
