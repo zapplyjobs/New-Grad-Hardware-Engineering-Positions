@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-5286-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-4270-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-5284-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-4271-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-412-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2027?style=flat&logo=calendar)
 
@@ -67,24 +67,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Western Digital** | Drive Teardown Failure Analysis Engineer | San Jose, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000136547759) |
-| **Western Digital** | Reliability Integration and Failure A... | San Jose, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000136546820) |
 | **Western Digital** | Configuration Specialist Engineer | Fremont, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138714070) |
+| **Western Digital** | Process Technician, Engineering - Nig... | Fremont, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138206609) |
+| **Western Digital** | Photo Equipment Engineering | San Jose, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138197979) |
 | **Veolia Environnement SA** | Electrical Engineer | Minnetonka, MN | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126075769) |
 | **Veolia Environnement SA** | Electrical Commissioning Engineer (Da... | Dayton, OH | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124181439) |
 | **Veolia Environnement SA** | Electrical & Instrumentation Engineer | Bellevue, WA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132421550) |
 | **Smiths Group** | Process Engineer | Salisbury, MD | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000096748615) |
 | **Smiths Group** | Engineer III Materials | Irving, Texas | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000091674935) |
 | **Smiths Group** | Drafter/Design Engineer II | Irving, Texas | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000087978855) |
+| **Solidigm** | Process Development Engineer | Rancho Cordova, CA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000117363827) |
 | **Solidigm** | 3D NAND TCAD Modeling Engineer | San Jose, CA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000142016899) |
 | **Solidigm** | Design Automation / Standard Cell Cha... | San Jose, CA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000138365194) |
-| **Solidigm** | Failure Analysis Engineer | Rancho Cordova, CA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000134312859) |
 | **Sandisk** | Field Application Engineer (New Colle... | Milpitas, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000136097669) |
 | **Sandisk** | Memory Device and Characterization En... | Milpitas, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000134302680) |
 | **Sandisk** | Technologist, Product Development Eng... | Milpitas, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000129594760) |
-| **RE/SPEC Inc.** | Civil Project Engineer/Project Manage... | Albuquerque, NM | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/743999967602892) |
 | **RE/SPEC Inc.** | Structural Engineer in Training (EIT) | Anchorage, AK | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000140989119) |
 | **RE/SPEC Inc.** | Water Treatment Process Engineer | Colorado Springs, Love... | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000136880710) |
+| **RE/SPEC Inc.** | Civil CAD Designer - Land Development | Tampa, FL | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000129829907) |
 | **Raytheon Technologies** | Electro-Optical Systems Engineer – Ai... | El Segundo, CA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RaytheonTechnologies/743999840718671) |
 | **NBCUniversal** | Site Reliability Engineer | Centennial, COLORADO | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000134504479) |
 | **NBCUniversal** | Project Controls Engineer II - Project | Universal City, CALIFO... | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140061169) |
@@ -97,25 +97,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intuitive** | Manager Mechanical Engineering | Sunnyvale, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000132269999) |
 | **INFICON** | Manufacturing Engineering Technician | Longmont, CO | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000138412679) |
 | **Eurofins** | Product Safety Engineer | Littleton, MA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000107799455) |
-| **Eurofins** | EMC/Wireless Engineer - 2nd Shift | Littleton, MA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000124177229) |
-| **Eurofins** | EMC/Wireless Engineer | Littleton, MA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000124162679) |
+| **Eurofins** | EMC/Wireless Engineer - 2nd Shift | Littleton, MA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000124177229) |
+| **Eurofins** | EMC/Wireless Engineer | Littleton, MA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000124162679) |
 | **GlobalFoundries** | Quantum Technology Services Intern (S... | New York | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Quantum-Technology-Services-Intern--Summer-2027-_JR-2604439) |
 | **Bosch Group** | 2026 Mechanical Engineering Internati... | Charleston, SC | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000121016953) |
 | **Bosch Group** | Mechanical Design Engineering Intern | Fort Lauderdale, FL | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000123481879) |
 | **Bosch Group** | Electronics Engineering Intern | Fort Lauderdale, FL | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126066306) |
 | **Diversified Automation** | Hardware Engineering Co-Op | Louisville, KY | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146) |
-| **Zoox** | Industrial Engineer | Hayward, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/104eba07-32d9-4007-9ab9-af2f482769aa) |
 | **Zoox** | Mechanical Design Engineer - Sensor C... | Foster City, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/5027566b-0449-4f0b-8ebc-6b2205799723) |
 | **Zoox** | Compute Platform System Safety Engineer | Foster City, CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/7ca52fd4-a683-4ba9-a635-5155f90be4f7) |
-| **WeRide** | Application Engineer | San Jose, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/82955de9-485d-4db0-8fd9-1c018489fc8d) |
-| **Two Sigma** | Two Sigma Securities, Hardware Engineer | POS | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Two-Sigma-Securities-Hardware-Engineer/13090) |
+| **Zoox** | Industrial Engineer | Hayward, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/104eba07-32d9-4007-9ab9-af2f482769aa) |
 | **Waabi** | Mechanical Engineer | Pittsburgh, PA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/548a93ba-52cb-4b21-a68a-70d812187e5b) |
 | **Waabi** | Platform Verification Engineer - Trac... | Phoenix, AZ | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/c45156f5-792e-459e-a312-435e66728733) |
 | **Waabi** | Vehicle Reliability Engineer | Dallas, TX | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/4889104b-bb12-4fd7-a332-843fbb45f0a4) |
+| **WeRide** | Application Engineer | San Jose, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/82955de9-485d-4db0-8fd9-1c018489fc8d) |
 | **Woven by Toyota** | System Safety Engineer | Ann Arbor, MI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/b65d2e76-ece7-4423-83bb-0ef521c482a1) |
+| **Velo3D** | Applications Engineer | Fremont, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/48f02e24-fde8-4067-9b13-867cc5e10e32) |
+| **Velo3D** | Applications Engineer | Fremont, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/629f99d2-0bcd-4ee1-86e4-817d785fe65c) |
 | **Velo3D** | Electrical Engineer II | Fremont, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/c6bf76b4-76a4-4a74-b479-0eac2b27f784) |
-| **Velo3D** | Field Service Engineer - (Houston / K... | Houston, Texas | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/ecb957cb-cfdc-4dd1-8d38-8633005a9c97) |
-| **Velo3D** | Hardware Engineering Technician | Fremont, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/e89db5d5-4ff6-4d46-9936-4c10f942ff9e) |
 | **Synergy ECP** | OCONUS Hardware Engineer (Pipeline) | Columbia, MD | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/4eb1b803-2c3c-46cc-92e4-cd80848351b4) |
 | **Teleo** | Electrical Integration Engineer | Palo Alto, CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/teleo/17daf52d-f8ee-44b7-9f10-33fe980a512e) |
 | **SoloPulse** | Digital Signal Processing (DSP) Engineer | Huntsville, AL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/9a9e29cb-41f3-4e39-ab69-27481422efff) |
@@ -123,50 +122,51 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SoloPulse** | Radar Digital Signal Processing (DSP)... | Peachtree Corners, GA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/663eecca-0951-4354-9a0f-14b52aa72ab9) |
 | **Shield AI** | Supplier Development Engineer - Elect... | Dallas, Texas | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/cf0f2076-a481-4b1a-8a37-39979abb98e6) |
 | **Shield AI** | Supplier Development Engineer - Mecha... | Dallas, Texas | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/9f1c3c6f-6807-4cd4-bbb1-d9914841c23e) |
-| **Shield AI** | Propulsion Engineer, Fleet Support (R... | Dallas, Texas | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/6658e802-cab9-48bb-a039-c13732079d9c) |
-| **Rainmaker** | Electrical Engineering Intern - Fall | El Segundo, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/3d4f859f-f2dd-4f2d-b15b-675e0d62a37b) |
-| **Rainmaker** | Mechanical Engineering Intern - Fall | El Segundo, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/87613e64-cc8f-47ab-a053-0b2c3ee93ebd) |
-| **Rainmaker** | Rainmaker Fellow, Atmospheric Instrum... | El Segundo, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/6b8ee727-b788-4f02-8157-db343181089d) |
+| **Shield AI** | Manager, Propulsion (Engine) (R5086) | Dallas, Texas | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/79945606-9d3f-4b46-905b-8cfd362fae3f) |
 | **PlusAI** | Field Service Engineer | Dallas, Texas | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/2af29134-9fe8-45e5-80e4-a3fee19f2d7c) |
 | **PlusAI** | Functional Safety Manager | Santa Clara, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/6844904b-ccbf-41ba-924c-6a5d8ba572d5) |
 | **PlusAI** | Technician | Fremont, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/9afb1a31-cdc8-496a-a891-24b9d1254391) |
+| **Rainmaker** | Electrical Engineering Intern - Fall | El Segundo, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/3d4f859f-f2dd-4f2d-b15b-675e0d62a37b) |
+| **Rainmaker** | Mechanical Engineering Intern - Fall | El Segundo, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/87613e64-cc8f-47ab-a053-0b2c3ee93ebd) |
+| **Rainmaker** | Rainmaker Fellow, Atmospheric Instrum... | El Segundo, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/6b8ee727-b788-4f02-8157-db343181089d) |
+| **Pivotal Software** | Autonomy Engineer II - Robotics | Palo Alto, CA or Miami... | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/69119185-2d5b-4b54-8a87-8ea040c9e482) |
+| **Pivotal Software** | Battery Engineering Technician (contr... | Palo Alto, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/9520f9d6-71f8-40b0-8ba1-85266247f2db) |
+| **Pivotal Software** | Internship, GNC Engineering (Fall) | Palo Alto, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7) |
 | **PingWind** | Unmanned Systems (UxS) Technician II | Virginia Beach, VA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/ae9670d0-4068-4796-9e62-c11cc5794ed8) |
 | **PingWind** | Research and Development Specialist SME | Fort Meade, MD | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/4cbe6637-30db-428a-95d9-07a987be5793) |
-| **Pivotal Software** | Motor Controls Engineer II - R&D | Palo Alto, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/9e6fe3e9-7668-483e-9273-85deb97eaff0) |
-| **Pivotal Software** | Verification Engineer - Aeromechanica... | Palo Alto, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/d1434d84-8a8a-43ec-91c4-18663f3fce99) |
-| **Pivotal Software** | Autonomy Engineer II - Robotics | Palo Alto, CA or Miami... | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/69119185-2d5b-4b54-8a87-8ea040c9e482) |
 | **Palantir** | Web Design Engineer | New York, NY | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/a3eaa0ef-3378-495f-8308-edbd9a93d26c) |
+| **Palantir** | Site Reliability Engineer - US Govern... | Washington, D.C. | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/211f99dc-269e-4f25-84d3-d73dea782080) |
 | **Palantir** | Product Reliability Engineer - Defense | New York, NY | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/250f623c-9afb-4c91-b0c0-25d4e83005ec) |
-| **Palantir** | Product Reliability Engineer - Defense | Washington, D.C. | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/57699414-b373-4a5e-9be8-6fb7de41ea72) |
-| **AbbVie** | Service Engineer, Analytical Instrume... | North Chicago, IL | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012907764) |
 | **Parallel Wireless** | 5G/LTE Network Engineer I | Greater Boston Area | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/parallelwireless/312ac1c6-035e-4585-abfd-a1d5865bc9f7) |
-| **Multiply Labs** | Robotics Field Engineer | Los Angeles | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/multiplylabs/c9fe817b-745a-4c68-a157-1b2afdc09f9a) |
-| **AbbVie** | Manufacturing Software Controls Engineer | North Chicago, IL | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013481356) |
+| **Two Sigma** | Two Sigma Securities, Hardware Engineer | POS | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Two-Sigma-Securities-Hardware-Engineer/13090) |
 | **Match Group** | Operations Engineer - Systems Enginee... | Dallas, Texas | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/matchgroup/f5172470-df74-4291-94b1-8da411c0ec66) |
+| **Multiply Labs** | Robotics Field Engineer | Los Angeles | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/multiplylabs/c9fe817b-745a-4c68-a157-1b2afdc09f9a) |
+| **Machina Labs** | Robotic Process Engineer | Chatsworth, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/6f93bd26-0c5e-4b3f-996c-d238c1db2139) |
+| **Machina Labs** | Robotic Process Engineer, Intern | Chatsworth, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) |
+| **Machina Labs** | Robotic Process Engineer, Intern | Chatsworth, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1) |
 | **Lumafield** | Application Engineer, CV/ML | San Francisco, CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/lumafield/0bcd8cce-ce74-4f39-a0f7-182278d4844b) |
 | **Lumafield** | Applications Engineer | Boston, MA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/lumafield/181866d7-ffa5-4e12-b25c-aa4f1fd0bb11) |
 | **Lumafield** | Hardware Systems Engineer | Boston, MA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/lumafield/309cb9df-0b93-4fc6-a495-e64264dc8eea) |
 | **Layup Parts** | Electrical Engineering Intern | Huntington Beach, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/0d8b26c2-f4f9-4dc1-b987-1e496fd616aa) |
 | **Layup Parts** | Mechanical Engineer | Huntington Beach, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/5952197a-c615-4606-8477-87a0aefd8469) |
 | **Layup Parts** | Robotics Engineer | Huntington Beach, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/226baa91-118d-4df3-bdca-2932f8d5cfee) |
-| **Machina Labs** | Robotic Process Engineer | Chatsworth, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/6f93bd26-0c5e-4b3f-996c-d238c1db2139) |
-| **Machina Labs** | Robotic Process Engineer, Intern | Chatsworth, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) |
-| **Machina Labs** | Robotic Process Engineer, Intern | Chatsworth, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1) |
+| **Institute for Foundation Models** | Eval360 - Error Analysis Engineer | Sunnyvale, CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/adf911e6-d3d0-41ed-a7bf-553e1c50e684) |
+| **AbbVie** | Service Engineer, Analytical Instrume... | North Chicago, IL | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012907764) |
+| **AbbVie** | Manufacturing Software Controls Engineer | North Chicago, IL | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013481356) |
 | **AbbVie** | Manufacturing Software Controls Engineer | Cincinnati, OH | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013846376) |
-| **Persona AI** | Electrical Engineering Intern | Pensacola, FL or Houst... | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/a68c0823-0b61-4741-9fbc-a1f6d701e4ed) |
-| **Persona AI** | Robotics Simulation Engineer | Pensacola, FL or Houst... | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/18e0d683-1666-4f4d-bef8-a62c175de17d) |
-| **Persona AI** | Robotics Data Pipeline Intern | Pensacola, FL or Houst... | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/c7981f54-698b-4617-a72a-ff251f3fa8a7) |
 | **Vultr** | Data Center Technician (Springfield, ... | Ohio Data | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/3e04de62-97b0-43f1-9ad5-e73efb43da81) |
 | **Vultr** | Data Center Technician (Atlanta, GA) ... | Atlanta, GA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/44053e9b-e637-4a09-965a-1fbb36118357) |
 | **Vultr** | Data Center Technician (Kansas City) | Kansas City, MO | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/d82021a2-23fb-4a03-9478-2b29fb588ddc) |
-| **Warp** | Design Engineer | New York | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/warp/34541a68-50a9-44c2-9651-eb3ca4a39be4) |
+| **Hermeus** | Spike Inlet Mechanisms Build Engineer | Los Angeles, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/81017d07-174b-4c95-8522-b13681be9833) |
+| **Hermeus** | Structures Design Engineer | Los Angeles, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/79e7c701-41c6-45ba-948f-532787100a22) |
+| **Hermeus** | Test and Operations Engineering Inter... | Los Angeles, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) |
 | **Antares** | Thermo - Mechanical Design Engineer -... | Los Angeles | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/antares/52785c9b-299d-4886-aa47-b14dc0094ba1) |
 | **Antares** | Nuclear Engineer I/II | Los Angeles | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/antares/f530ad09-21b2-49a5-a133-bd24fb97cede) |
 | **Antares** | Electrical Engineer I/II | Los Angeles | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/antares/8affea36-17e0-40f2-aa9c-9fe73017539c) |
-| **Gritt Robotics** | Mechanical Engineer | South San Francisco | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/ed459ec7-84ba-415c-9c44-5be778a7c6b0) |
-| **Gritt Robotics** | Robotics Perception Engineer Intern | South San Francisco | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/26af4e71-339d-4aa3-9f22-91574c1166b9) |
-| **Gritt Robotics** | Hardware Procurement Specialist | South San Francisco | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/99aeb34d-6eec-4bc1-8acb-203657ce5998) |
-| **Institute for Foundation Models** | Eval360 - Error Analysis Engineer | Sunnyvale, CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/adf911e6-d3d0-41ed-a7bf-553e1c50e684) |
+| **Persona AI** | Electrical Engineering Intern | Pensacola, FL or Houst... | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/a68c0823-0b61-4741-9fbc-a1f6d701e4ed) |
+| **Persona AI** | Robotics Simulation Engineer | Pensacola, FL or Houst... | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/18e0d683-1666-4f4d-bef8-a62c175de17d) |
+| **Persona AI** | Robotics Data Pipeline Intern | Pensacola, FL or Houst... | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/c7981f54-698b-4617-a72a-ff251f3fa8a7) |
+| **Warp** | Design Engineer | New York | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/warp/34541a68-50a9-44c2-9651-eb3ca4a39be4) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -178,27 +178,27 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Eurofins** | Associate Safety Engineer | Cary, NC | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000130889580) |
-| **Bosch Group** | Associate Equipment Engineer | Roseville, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000135786859) |
-| **Bosch Group** | Associate Process Engineer | Roseville, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000135766249) |
-| **Bosch Group** | Associate Facility Engineer- HVAC | Roseville, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000137754399) |
+| **Eurofins** | Associate Safety Engineer | Cary, NC | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000130889580) |
 | **Veeva Systems** | Account Partner - LIMS Basics | Philadelphia | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/5f7156df-b460-4ef3-9e27-fb4a1a0b10b3) |
 | **Veeva Systems** | Account Partner - Veeva Basics | United States | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/b9b6541b-c3e4-45b5-b616-e48ae85f61c9) |
 | **Veeva Systems** | Account Partner - Veeva Commercial Ba... | Boston | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/3f1170c3-998b-4ab2-b6fc-9faf4edf82c5) |
+| **Bosch Group** | Associate Equipment Engineer | Roseville, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000135786859) |
+| **Bosch Group** | Associate Process Engineer | Roseville, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000135766249) |
+| **Bosch Group** | Associate Facility Engineer- HVAC | Roseville, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000137754399) |
 | **Antares** | Firmware Engineer I-II | Los Angeles | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/antares/11da51b3-7969-4549-a32f-21d8b699e216) |
 | **Taara** | FPGA Design Engineer | Sunnyvale, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/taaraconnect/a07c6629-597b-4c75-9597-c63f8b34f6df) |
 | **OpenAI** | Networking Operating System Firmware ... | San Francisco | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/f6b9903c-9034-436b-a4ec-4c8643a6d0dd) |
-| **OpenAI** | ASIC Firmware Engineer, Modeling | San Francisco | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/e4ef18a1-f2f7-4920-a53c-aeadd184d124) |
 | **OpenAI** | Firmware Engineer, RTOS, Consumer Dev... | San Francisco | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/2710d0c7-8f1c-4e1a-bf7a-4000fc5a8d68) |
+| **OpenAI** | ASIC Firmware Engineer, Modeling | San Francisco | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/e4ef18a1-f2f7-4920-a53c-aeadd184d124) |
 | **Northwood Space** | FPGA Engineer | Torrance, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/20798d3e-039d-4255-9b9d-39612c0c597e) |
 | **Mach Industries** | Firmware Engineer | Huntington Beach, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach/543d219e-478a-431e-ab97-73947a926d47) |
 | **MatX** | SoC Design Verification Engineer | Mountain View ( | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/a8f5e7ab-6938-43f4-ae56-d0a4d316f53c) |
 | **MatX** | ASIC/SOC Silicon Physical Design Engi... | Mountain View ( | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/13b49fe9-aa5b-4270-aaf0-e3d0091a9615) |
 | **MatX** | ASIC/SOC CAD Engineer | Mountain View ( | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/54fa5fa8-415e-4b7e-948a-4149d9b5f3bd) |
 | **Hinge Health** | Firmware Engineer II | San Francisco- | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/12ec2655-34d6-4990-a148-4504b91b7796) |
+| **Etched** | Design Verification Engineer - SoC | San Jose | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/a99318bd-b433-44b7-9600-2ee9533c90a1) |
 | **Etched** | Design Verification Engineer - SoC | Austin | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/33adf31c-e0ad-4080-bb83-1b3859f95d35) |
 | **Etched** | ASIC Technical Program Manager | San Jose | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/bdec1a6d-300b-47fc-a551-3c937d76fee0) |
-| **Etched** | RTL Design Engineer | San Jose | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/c3ca158a-015d-413d-bd14-5470e546ed15) |
 | **Belvedere Trading** | FPGA Engineer | Chicago, Illinois | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/belvederetrading/67c39285-40b4-436f-9e12-5644f070f46f) |
 | **Cerebras Systems** | FPGA Engineer | Headquarters/Sunnyvale | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/3f85f614-264f-4987-9fb5-320ee2798e97) |
 | **Base Power** | Firmware Engineering Intern | Austin, TX | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7) |
@@ -234,11 +234,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AMD** | 2027 Undergrad Firmware Engineering I... | Austin, TX, United States | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://campus-amd.icims.com/jobs/90801/login) |
 | **AMD** | 2027 Undergrad Firmware Engineering C... | Santa Clara, CA, Unite... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://campus-amd.icims.com/jobs/90807/login) |
 | **Schweitzer Engineering Laboratories** | Firmware Engineer | Boise | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Application-Engineer_2026-22166-1) |
+| **Aerospace Corporation** | Digital Design Engineer - Engineering... | Johnson Space | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/Johnson-Space-Center-TX/Digital-Design-Engineer---Engineering-Specialist_R016176-1) |
 | **NVIDIA** | Custom SOC IP Verification Engineer | Santa Clara, CA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Custom-SOC-IP-Verification-Engineer_JR2024062) |
 | **Blue Origin** | ASIC Engineer - Early Career | Greater Seattle Area | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802) |
 | **Avnet** | Associate Field Application Engineer | San Jose, California, ... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://avnet.wd1.myworkdayjobs.com/external/job/San-Jose-California-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071) |
 | **Saronic Technologies** | Deputy Program Manager - SOCOM | San Diego, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/4e9b824e-e59a-4559-86e6-87ac526419b4) |
-| **Aerospace Corporation** | Digital Design Engineer - Engineering... | Johnson Space | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/Johnson-Space-Center-TX/Digital-Design-Engineer---Engineering-Specialist_R016176-1) |
 | **Booz Allen Hamilton** | Embedded Firmware Engineer | Beavercreek, OH | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Embedded-Software-Engineer_R0242747) |
 | **Micron Technology** | Intern - HBM SoC RTL Design Engineer | Folsom, CA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) |
 | **Leidos** | Associate Distribution Engineer | Honolulu, HI | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Associate-Distribution-Engineer_R-00190133) |
@@ -274,8 +274,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Teledyne** | Embedded Systems & RF Firmware Engineer | Rancho Cordova, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/RF---Microwave-Power-Amplifier-Design-Engineer_REQ27443) |
 | **Eversource Energy** | Associate Civil Engineer, Transmissio... | Hartford, CT | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Associate-Civil-Engineer--Transmission-Line-Engineering_R-030738) |
 | **ABB** | R&D Associate Engineer | USA, OH, Cleveland | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OH-Cleveland/R-D-Associate-Engineer_JR00024853) |
-| **Thermo Fisher Scientific** | Associate Operator - Folder (3rd shif... | Bohemia, New York, USA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bohemia-New-York-USA/Associate-Operator---Folder--3rd-shift-_R-01346821-1) |
 | **Anduril** | FPGA Verification Engineer | Waltham, Massachusetts... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5185590007?gh_jid=5185590007) |
+| **Thermo Fisher Scientific** | Associate Operator - Folder (3rd shif... | Bohemia, New York, USA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bohemia-New-York-USA/Associate-Operator---Folder--3rd-shift-_R-01346821-1) |
 | **GDIT** | Test Engineer Associate | USA NY Albany | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NY-Albany/Test-Engineer-Associate_RQ226471) |
 | **Generac** | Intern Firmware Engineering | Reno, NV - USA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) |
 
@@ -293,18 +293,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sandisk** | Product Security Engineer - Hardware/... | Milpitas, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000133420384) |
 | **Zoox** | Firmware Validation Engineer | Foster City, CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/4b00bf61-6547-4c50-be83-5d659176090b) |
 | **Zoox** | Firmware Validation Engineer - Batter... | Foster City, CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/8c037577-5728-4a7d-bbd4-bd83a3e44614) |
-| **Deepgram** | Embedded AI Engineer, On-Device Models | USA  Remote | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/deepgram/0b7494b3-a91e-4540-9439-5b10a1e5b391) |
 | **Waabi** | Platform Verification Engineer - Embe... | San Francisco, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/d0748dc8-f1c0-4f9b-9cbd-0c8b4e22ca7d) |
 | **Qrypt** | Embedded Software Engineer | Germantown, MD | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/qrypt/c1ed6b7c-eadd-4476-9abc-b4b1e1272573) |
 | **Palantir** | Embedded Legal Engineer | Palo Alto, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/2d2f0ed7-134a-4f24-af89-cfb8583d796a) |
 | **Palantir** | Embedded Legal Engineer | New York, NY | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/471ccceb-3614-4c28-a1af-b1235c081173) |
 | **Palantir** | Embedded Legal Engineer | Washington, D.C. | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/84335d8e-f91c-4741-b4c6-7649f3ac948d) |
+| **Deepgram** | Embedded AI Engineer, On-Device Models | USA  Remote | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/deepgram/0b7494b3-a91e-4540-9439-5b10a1e5b391) |
 | **OpenAI** | TLM, Embedded Experiences | San Francisco | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/967d3ad7-bd2c-40e3-ba1f-f1140a116999) |
+| **Mach Industries** | Embedded Autonomy Engineer | Huntington Beach, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach/837b418d-784a-4bee-b59c-2ac6298ed649) |
 | **Mach Industries** | Firmware Validation Engineer | Huntington Beach, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach/1dea39d5-f2d2-4fa2-af27-70a6c5a7de8b) |
 | **Mach Industries** | Integration Engineer, Firmware | Huntington Beach, CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach/536da798-717b-4bd1-ac75-7273e66cb862) |
-| **Mach Industries** | Embedded Autonomy Engineer | Huntington Beach, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach/837b418d-784a-4bee-b59c-2ac6298ed649) |
-| **Etched** | MTS - Firmware | Austin | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/a735c757-7d39-47de-9329-77d6362b5547) |
 | **Etched** | Firmware Intern | San Jose | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc) |
+| **Etched** | MTS - Firmware | Austin | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/a735c757-7d39-47de-9329-77d6362b5547) |
 | **Applied Intuition** | Embedded Security Engineer | Sunnyvale | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/1909abc7-df4f-4220-adaf-0549bd01f657) |
 | **Applied Intuition** | Embedded AI Engineer – Android Automo... | Sunnyvale | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/5e204245-3d33-4916-bfdd-991f0cc745eb) |
 | **Applied Intuition** | Firmware HIL Engineer | Sunnyvale | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/430b1bce-58d2-4c37-9a50-55e1d6ace619) |
@@ -334,11 +334,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ALTEN Technology** | Firmware Validation Engineer | Foster City, Californi... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5210050007) |
 | **Qualcomm** | Technical Standards – Data Center Fir... | San Diego, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.qualcomm.com/careers/job/446720326255) |
 | **Qualcomm** | IoT Chipset PE | San Diego, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.qualcomm.com/careers/job/446720393149) |
+| **Blue Origin** | Embedded Software Engineer III | Greater Seattle Area | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Embedded-Software-Engineer-III_R69112) |
 | **Magna** | IOT Controls Technician | Woodbridge, Ontario, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Woodbridge-Ontario-CA/IOT-Controls-Technician_R00255831) |
 | **General Motors** | Embedded Software Engineer | Sunnyvale, California,... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Embedded-Software-Engineer_JR-202617527) |
-| **Blue Origin** | Embedded Software Engineer III | Greater Seattle Area | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Embedded-Software-Engineer-III_R69112) |
-| **ASML** | Embedded Software Quality Engineer | San Diego, CA, USA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Embedded-Software-Quality-Engineer_J-00336332-1) |
 | **Blue Origin** | Avionics / Embedded Software Engineer... | Greater Seattle Area | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055) |
+| **ASML** | Embedded Software Quality Engineer | San Diego, CA, USA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Embedded-Software-Quality-Engineer_J-00336332-1) |
 | **Draper** | Embedded Quality & Fielded Systems In... | Cambridge, MA | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
 | **Verkada** | Embedded Engineer - Streaming | San Mateo, CA United S... | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5195862007) |
 | **Penn State University** | Embedded Systems and Hardware Co-Op | Warminster, PA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/Student/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-1) |
@@ -367,7 +367,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northwestern Mutual** | Test Engineer | Milwaukee, WI | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NorthwesternMutual/743999658678908) |
 | **LLNL** | Facility Electrical Design Engineer, ... | Livermore, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990011667706) |
 | **Intuitive** | Validation Engineer, Sterility Assurance | Sunnyvale, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000141512679) |
-| **Eurofins** | Test Engineer, Environmental Simulati... | Baltimore, MD | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137486889) |
+| **Eurofins** | Test Engineer, Environmental Simulati... | Baltimore, MD | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137486889) |
 | **Zoox** | System Test Engineer | San Diego, CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/ec1de483-ebd5-4b87-96b7-d749f077aefb) |
 | **Zoox** | System Verification and Validation En... | Foster City, CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/fe41af48-f0ec-46ec-b840-00f9d9f872de) |
 | **Zoox** | Systems Test Engineer, System Behavio... | San Diego, CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/c8924164-2a47-4700-9686-c0783fa6dc25) |
@@ -377,28 +377,28 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Shield AI** | Flight Test Engineer (R5006) | Wichita Metro Area | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/c71d4278-e8af-4d66-ba49-80670cccfc3c) |
 | **PlusAI** | Perception Validation Engineer | Santa Clara, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/0c342721-601c-4466-b503-5b18438064c2) |
 | **Ranger** | Forward-Deployed Test Engineer | San Francisco, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d) |
-| **Gritt Robotics** | Robotics System Test Engineer | South San Francisco | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/5a834deb-09aa-406c-8c8d-c5d7cc6818ad) |
 | **Hermeus** | Test Engineer | Atlanta, GA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/55f58c50-4373-4ec0-9e9c-1abf3a96539d) |
 | **Hermeus** | Test Engineer | Los Angeles, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/efab6659-7548-4dd7-93f0-a9c93dc83d42) |
 | **Hermeus** | Propulsion Test Engineering Intern - ... | Jacksonville, FL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) |
+| **Gritt Robotics** | Robotics System Test Engineer | South San Francisco | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/5a834deb-09aa-406c-8c8d-c5d7cc6818ad) |
 | **Uncountable** | Validation Engineer | New York, San Francisc... | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/uncountable/a8390152-8709-4a36-93b9-eb2bc6242342) |
+| **AbbVie** | Validation Engineer II | Branchburg, NJ | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014090096) |
 | **Saronic Technologies** | Structures Test Engineer | Austin, TX | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/89c34139-0005-4bd5-aa25-845d56a76bd3) |
 | **Skydio** | Flight Test Engineer - Wireless | San Mateo, California,... | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/9a2ea1b1-b3cc-4dfa-995b-b9da074247d5) |
-| **AbbVie** | Validation Engineer II | Branchburg, NJ | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014090096) |
 | **Radiant Industries** | Test Engineer, Mechanical/Fluids | El Segundo, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/9e747724-d154-488d-93d6-067ee7d42cf2) |
 | **OpenAI** | System Power Engineer, Consumer Devices | San Francisco | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/3124e8f0-e9e7-4c8b-8541-13cbbc5d1f4a) |
 | **Physical Intelligence** | Production Test Engineer | San Francisco | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/physicalintelligence/81d1eb25-ada9-40fd-8708-e1e42ecb2b7e) |
 | **Northwood Space** | Electrical Test Engineer | Torrance, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/e153b809-8535-4d9d-b48c-c25acdeadae7) |
-| **Mach Industries** | Flight Test Engineer | Huntington Beach, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach/d49e7ec7-5b17-49f3-be89-8fead5c8ccd0) |
 | **Mach Industries** | Propulsion Test Engineer | Victorville, CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach/a58f8ff8-bbe8-498f-9663-6a634571fca9) |
-| **MatX** | Power Engineer | Mountain View ( | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/1e718369-79bf-4118-a4df-2a1ee6dd1534) |
-| **MatX** | Silicon Validation Engineer | Mountain View ( | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/6a550e45-e9fd-410a-bcf6-3bfc41d5790a) |
+| **Mach Industries** | Flight Test Engineer | Huntington Beach, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach/d49e7ec7-5b17-49f3-be89-8fead5c8ccd0) |
 | **Lynk** | Test Engineer - Satellite Hardware | Chantilly, VA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/82ce28df-986e-4aad-9c52-86f693fa0386) |
 | **Lynk** | RF Systems Test Engineer | Chantilly, VA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/cde26cc6-c647-4cc1-86d4-a41cb9491535) |
+| **MatX** | Power Engineer | Mountain View ( | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/1e718369-79bf-4118-a4df-2a1ee6dd1534) |
+| **MatX** | Silicon Validation Engineer | Mountain View ( | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/6a550e45-e9fd-410a-bcf6-3bfc41d5790a) |
+| **Eight Sleep** | Hardware Prototype & Test Engineer | San Francisco | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/04a37ce9-ff55-4b51-b3d2-f145734eb188) |
+| **Etched** | Post-Silicon Validation Engineer | San Jose | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/9a3eed83-b5b2-4ac4-a2d4-9dc9dd734869) |
 | **Etched** | Systems Validation Engineer, L10 | San Jose | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/78bca8a9-69e9-4066-a14c-ae562bf98520) |
 | **Etched** | Power Validation Engineer | San Jose | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/40365c15-37d2-4266-a042-5a21bfb9212b) |
-| **Etched** | Hardware Validation Engineer | San Jose | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/ccf2ae62-5490-4a59-87e8-8761f573b22a) |
-| **Eight Sleep** | Hardware Prototype & Test Engineer | San Francisco | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/04a37ce9-ff55-4b51-b3d2-f145734eb188) |
 | **CFS Energy** | R&D Test Engineer - Fluid Systems | Devens, MA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/cfsenergy/27e3a498-9ab0-43a7-896f-75f791aee6bb) |
 | **Crusoe** | Electrical Design Engineer - Data Center | San Francisco, CA - US | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/crusoe/81cec6a2-4bb9-41d0-a5fd-08e4017945fd) |
 | **Base Power** | Manufacturing Test Engineer | Austin, TX | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/39073031-27b8-4105-ba3f-e5690ceca391) |
@@ -409,13 +409,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apex Technology** | Avionics Test Engineer, Hardware | Los Angeles | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/apex-technology-inc/3c7c5384-c6e9-4274-b090-90d2d51c30a8) |
 | **Apex Technology** | Power Electronics Engineer (Mid) | Los Angeles | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/apex-technology-inc/5066f10b-4bf1-4e6f-8db1-41efa436fa4b) |
 | **Apex Technology** | RF Test Engineer | Los Angeles | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/apex-technology-inc/7c3d14a1-e44a-4ccc-81ad-3cbc9914a646) |
-| **Google** | Network Test Engineer | United States | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108335218967880390) |
 | **Google** | Silicon Validation Engineer, HBM, Goo... | United States | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107321643193246406) |
 | **Google** | Silicon Validation Engineer, Google C... | United States | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87066834049606342) |
-| **GDIT** | Test Engineer   Secret clearance | USA CA Point Mugu | 31m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Point-Mugu/Test-Engineer---Secret-clearance_RQ226812-1) |
+| **Google** | Test Engineer, Display Manufacturing,... | United States | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142697182128939718) |
+| **GDIT** | Test Engineer   Secret clearance | USA CA Point Mugu | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Point-Mugu/Test-Engineer---Secret-clearance_RQ226812-1) |
 | **Anduril** | Manufacturing Test Engineer, Drones | Costa Mesa, California... | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5219205007?gh_jid=5219205007) |
 | **Accenture Federal Services** | Automation Test Engineer | Washington, DC | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4707047006?gh_jid=4707047006) |
-| **Bosch Group** | System Engineer - Power Electronics | Farmington Hills, MI | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000144814189) |
+| **Bosch Group** | System Engineer - Power Electronics | Farmington Hills, MI | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000144814189) |
+| **Adtran** | System Integration Test Engineer I | Atlanta, GA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/System-Integration-Test-Engineer-I_R005698) |
 | **Semtech** | Silicon Validation Engineer | San Diego, CA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/SemtechCareers/job/USA---San-Diego-CA/XMLNAME---Hardware-Verification-Engineer-_REQ3491) |
 | **Jabil** | Test Engineer III | San Jose, CA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Test-Engineer-III_J2462257) |
 | **GDIT** | QA Test Engineer | USA DC Washington | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/QA-Test-Engineer_RQ226894-1) |
@@ -428,7 +429,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **KBR** | Test Engineer | Colorado Springs, Colo... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Test-Engineer_R2125507-1) |
 | **General Motors** | Development & Validation Engineer | Warren, Michigan, Unit... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Development---Validation-Engineer_JR-202616259) |
 | **Analog Devices** | Analog Design Engineer Intern | Wilmington, MA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) |
-| **Adtran** | System Integration Test Engineer I | Atlanta, GA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/System-Integration-Test-Engineer-I_R005698) |
 | **ALTEN Technology** | Connected Vehicle Validation Engineer | Auburn Hills, Michigan... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5218545007) |
 | **Leidos** | Materials Test Engineer | Huntsville, AL | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Materials-Test-Engineer_R-00188714) |
 | **RTX** | Mechanical Engineer I, Avionics Test ... | Melbourne, FL | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Mechanical-Engineer-I--Avionics-Test-Engineering_01868755) |
@@ -441,6 +441,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | Electromagnetic Effects Test Engineer... | Hawthorne, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8721179002?gh_jid=8721179002) |
 | **Graphcore** | Power Electronics Engineer | Milpitas, California, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8733548002) |
 | **AMD** | SLT Test Engineer | Austin, TX, United States | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/89356/login) |
+| **Bristol Myers Squibb** | Validation Engineer, Sterility & CQV | RayzeBio | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Indianapolis---RayzeBio---IN/Validation-Engineer--Sterility---CQV_R1605491) |
 | **Teledyne** | Systems Validation Engineer | Goleta, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Systems-Validation-Engineer_REQ35969) |
 | **Cisco** | Analog/mixed-signal IC Design Enginee... | San Jose, California, US | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Analog-mixed-signal-IC-Design-Engineer---Acacia--Hybrid-_2023164) |
 | **Boeing** | Flight Test Engineer (Experienced) | Seattle, WA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Flight-Test-Engineer--Experienced-_JR2026520261-1) |
@@ -454,7 +455,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Micron Technology** | Engineer, FW & Product Test Engineering | Longmont, CO | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Longmont-CO/Engineer--FW---Product-Test-Engineering_JR108871-1) |
 | **Micron Technology** | ENGINEER, FW & PRODUCT TEST ENGINEERING | Longmont, CO | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Longmont-CO/ENGINEER--FW---PRODUCT-TEST-ENGINEERING_JR108869) |
 | **Waabi** | Test Engineer | Pittsburgh, PA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/1fb790ab-2a32-4314-a1fd-907f7ce0e6e6) |
-| **Bristol Myers Squibb** | Validation Engineer, Sterility & CQV | RayzeBio | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Indianapolis---RayzeBio---IN/Validation-Engineer--Sterility---CQV_R1605491) |
 | **Leidos** | EO/IR Integration and Test Engineer | Huntsville, AL | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/EO-IR-Integration-and-Test-Engineer_R-00188239) |
 | **Analog Devices** | Mixed Signal Engineer Intern | Wilmington, MA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299) |
 | **Analog Devices** | Test Engineer - ADEF | US, MA, Chelmsford, El... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Elizabeth/Test-Engineer---ADEF_R264596) |
@@ -476,15 +476,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **INFICON** | Supplier Quality Engineer | East Syracuse, NY | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000129841869) |
 | **Bosch Group** | Customer Quality Engineer | Fountain Inn, SC | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000134544339) |
-| **Bosch Group** | Customer Quality Engineer_Steering | Plymouth, MI | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139360559) |
 | **Shield AI** | Technician 4, Quality Engineering (R4... | Dallas, Texas | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/8f00a36b-02b5-4800-b55b-2c9d29c6dd62) |
 | **Pivotal Software** | Quality Engineer | Palo Alto, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/fdf48640-aebe-49a8-b225-bb0164189c6d) |
+| **Bosch Group** | Customer Quality Engineer_Steering | Plymouth, MI | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139360559) |
 | **Persona AI** | Quality Engineer | Houston, TX | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/de83c3eb-e6e4-4ba2-a675-db4e8ef7918a) |
 | **Saronic Technologies** | Quality Engineer | Austin, TX | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/ff3875c5-3dcb-4f9f-8614-c69345a857a8) |
 | **Saronic Technologies** | Quality Engineer – Accuracy Control | Franklin, LA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/d2330bfb-ea14-4095-b1a5-af751bc95315) |
 | **Skydio** | Hardware Test & Reliability Intern | San Mateo, California,... | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924) |
-| **OpenAI** | Component and Product Quality Enginee... | San Francisco | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/2c9d0566-69b1-435e-bd8f-4eefc04dd076) |
 | **OpenAI** | Quality Engineer - Rack Infrastructur... | San Francisco | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/fff7b15d-a1a0-441f-90f1-5efcae7f0051) |
+| **OpenAI** | Component and Product Quality Enginee... | San Francisco | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/2c9d0566-69b1-435e-bd8f-4eefc04dd076) |
 | **Lambda** | Hardware Quality Engineer | San Jose | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/9644bc3d-966a-4a5e-85ef-3afbe080a7a6) |
 | **Gecko Robotics** | Quality Engineer | Pittsburgh | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gecko-robotics/5ff40755-edc3-4cdb-9d04-bc3eddce4102) |
 | **Etched** | Product Engineer, Silicon Validation | San Jose | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/d2064295-5939-4bca-a6af-5369a11a097e) |
@@ -506,7 +506,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Applied Materials** | Quality Engineer | Santa Clara,CA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Quality-Engineer_R2622282) |
 | **Johnson Controls** | Quality Engineer | Wisconsin | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Marinette-Wisconsin-United-States-of-America/Quality-Engineer_WD30277095-1) |
 | **Jabil** | Server/Rack Quality Engineer (Monday-... | Florence, KY | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Server-Rack-Quality-Engineer--Monday-Friday-_J2461906) |
-| **Qualcomm** | High-speed Electrical/Optical Post-Si... | San Diego, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.qualcomm.com/careers/job/446720529464) |
 | **Chamberlain Group** | Quality Engineer, Fulfillment | Olive Branch, MS | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Olive-Branch-MS/Quality-Engineer--Fulfillment_JR30957) |
 | **Apple** | Quality Engineer, Tools and Automation | Cupertino | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200679164/quality-engineer-tools-and-automation) |
 | **Divergent Technologies** | Quality Engineer | Torrance, California, ... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/divergent/jobs/5397121008) |
@@ -574,6 +573,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson & Johnson** | Design Quality Engineer I | West Chester, Pennsylv... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/West-Chester-Pennsylvania-United-States-of-America/Design-Quality-Engineer-I_R-093402-1) |
 | **General Motors** | Quality Engineer - Off Shift | Flint, Michigan, Unite... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Flint-Michigan-United-States-of-America/Quality-Engineer---Off-Shift_JR-202617862) |
 | **Generac** | Manufacturing Quality Engineer IV - C... | South Portland, ME | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/South-Portland-ME---USA/Manufacturing-Quality-Engineer-IV---Clean-Energy_JR15092) |
+| **Blue Origin** | Quality Engineer | Greater Seattle Area | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Quality-Engineer_R69593) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -635,7 +635,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 5286 current opportunities from 412 companies**
+**🎯 5284 current opportunities from 412 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
