@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-6138-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-4953-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-6139-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-4954-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-424-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2027?style=flat&logo=calendar)
 
@@ -69,12 +69,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Western Digital** | Summer 2027 Intern - Hardware Enginee... | San Jose, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) |
-| **Western Digital** | Hardware Engineer | San Jose, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000140947335) |
-| **Western Digital** | Architecture and System Design Engineer | Irvine, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000140485960) |
-| **Veolia Environnement SA** | Electrical Commissioning Engineer (Da... | Dayton, OH | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124181439) |
-| **Veolia Environnement SA** | Electrical Engineer | Minnetonka, MN | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126075769) |
-| **Veolia Environnement SA** | Electrical & Instrumentation Engineer | Bellevue, WA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132421550) |
+| **Western Digital** | Summer 2027 Intern - Hardware Enginee... | San Jose, CA | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) |
+| **Western Digital** | Hardware Engineer | San Jose, CA | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000140947335) |
+| **Western Digital** | Architecture and System Design Engineer | Irvine, CA | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000140485960) |
+| **Veolia Environnement SA** | Electrical Commissioning Engineer (Da... | Dayton, OH | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124181439) |
+| **Veolia Environnement SA** | Electrical Engineer | Minnetonka, MN | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126075769) |
+| **Veolia Environnement SA** | Electrical & Instrumentation Engineer | Bellevue, WA | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132421550) |
 | **Smiths Group** | Process Engineer | Salisbury, MD | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000096748615) |
 | **Smiths Group** | Engineer III Materials | Irving, Texas | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000091674935) |
 | **Smiths Group** | Drafter/Design Engineer II | Irving, Texas | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000087978855) |
@@ -82,11 +82,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Solidigm** | Electrical Failure Analysis Engineer | Rancho Cordova, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000132925109) |
 | **Solidigm** | Process Development Engineer | Rancho Cordova, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000117363827) |
 | **Sandisk** | Memory Device and Characterization En... | Milpitas, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000134302680) |
+| **Sandisk** | Verification CAD Engineer | Milpitas, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000138368175) |
 | **Sandisk** | Technologist,  System Product Engineer | Milpitas, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000143398394) |
-| **Sandisk** | System Design Engineer - Memory System | Milpitas, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000142015139) |
-| **RE/SPEC Inc.** | Mechanical Engineer / Project Manager | Pipersville, PA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000088317535) |
-| **RE/SPEC Inc.** | Civil Project Engineer/Project Manage... | Albuquerque, NM | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/743999967602892) |
 | **RE/SPEC Inc.** | Fire Protection EIT | Anchorage, AK | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000143189989) |
+| **RE/SPEC Inc.** | Structural Engineer in Training (EIT) | Anchorage, AK | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000140989119) |
+| **RE/SPEC Inc.** | Civil CAD Designer - Land Development | Tampa, FL | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000129829907) |
 | **Raytheon Technologies** | Electro-Optical Systems Engineer – Ai... | El Segundo, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RaytheonTechnologies/743999840718671) |
 | **LinkedIn** | Data Center Asset Management Engineer... | Manassas, VA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000133468876) |
 | **NBCUniversal** | Project Controls Engineer II - Project | Universal City, CALIFORNIA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140061169) |
@@ -99,49 +99,47 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eurofins** | Product Safety Engineer | Littleton, MA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000107799455) |
 | **Eurofins** | EMC/Wireless Engineer - 2nd Shift | Littleton, MA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000124177229) |
 | **Eurofins** | EMC/Wireless Engineer | Littleton, MA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000124162679) |
-| **Bosch Group** | 2026 Mechanical Engineering Internati... | Charleston, SC | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000121016953) |
-| **Bosch Group** | Mechanical Design Engineering Intern | Fort Lauderdale, FL | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000123481879) |
-| **Bosch Group** | Electronics Engineering Intern | Fort Lauderdale, FL | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126066306) |
-| **Diversified Automation** | Controls Engineering Co-op | Louisville, KY | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/diversified-automation/02ac2964-5362-4ff2-934c-b122ba26c365) |
+| **Bosch Group** | 2026 Mechanical Engineering Internati... | Charleston, SC | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000121016953) |
+| **Bosch Group** | Mechanical Design Engineering Intern | Fort Lauderdale, FL | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000123481879) |
+| **Bosch Group** | Simulation and System Engineer (Multi... | Fountain Inn, SC | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000125913658) |
 | **Diversified Automation** | Hardware Engineering Co-Op | Louisville, KY | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146) |
+| **Diversified Automation** | Controls Engineering Co-op | Louisville, KY | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/diversified-automation/02ac2964-5362-4ff2-934c-b122ba26c365) |
 | **Woven by Toyota** | System Safety Engineer | Ann Arbor, MI | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/b65d2e76-ece7-4423-83bb-0ef521c482a1) |
 | **Zoox** | Chassis Controls Engineer, Brakes & S... | Foster City, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/341859c7-6449-482b-a6ef-1717bd97ea78) |
 | **WeRide** | Application Engineer | San Jose, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/82955de9-485d-4db0-8fd9-1c018489fc8d) |
-| **Waabi** | Mechanical Engineer | Pittsburgh, PA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/548a93ba-52cb-4b21-a68a-70d812187e5b) |
-| **Waabi** | Vehicle Reliability Engineer | Dallas, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/4889104b-bb12-4fd7-a332-843fbb45f0a4) |
 | **Velo3D** | Applications Engineer | Fremont, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/48f02e24-fde8-4067-9b13-867cc5e10e32) |
 | **Velo3D** | Applications Engineer | Fremont, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/629f99d2-0bcd-4ee1-86e4-817d785fe65c) |
 | **Velo3D** | Electrical Engineer II | Fremont, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/c6bf76b4-76a4-4a74-b479-0eac2b27f784) |
+| **Waabi** | Vehicle Reliability Engineer | Dallas, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/4889104b-bb12-4fd7-a332-843fbb45f0a4) |
+| **Waabi** | Mechanical Engineer | Pittsburgh, PA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/548a93ba-52cb-4b21-a68a-70d812187e5b) |
 | **Toyota Research Institute** | Robotics Research Intern - Post-Training | Los Altos, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0) |
 | **Teleo** | Electrical Integration Engineer | Palo Alto, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/teleo/17daf52d-f8ee-44b7-9f10-33fe980a512e) |
 | **Synergy ECP** | OCONUS Hardware Engineer (Pipeline) | Columbia, MD | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/4eb1b803-2c3c-46cc-92e4-cd80848351b4) |
-| **AbbVie** | Service Engineer, Analytical Instrume... | North Chicago, IL | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012907764) |
 | **Shield AI** | Supplier Development Engineer - Elect... | Dallas, Texas | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/cf0f2076-a481-4b1a-8a37-39979abb98e6) |
 | **Shield AI** | Supplier Development Engineer - Mecha... | Dallas, Texas | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/9f1c3c6f-6807-4cd4-bbb1-d9914841c23e) |
 | **Shield AI** | Propulsion Engineer, Fleet Support (R... | Dallas, Texas | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/6658e802-cab9-48bb-a039-c13732079d9c) |
 | **SoloPulse** | Digital Signal Processing (DSP) Engineer | Huntsville, AL | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/9a9e29cb-41f3-4e39-ab69-27481422efff) |
 | **SoloPulse** | Digital Signal Processing (DSP) Engineer | Peachtree Corners, GA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/fede9a75-7e75-4066-9b89-291c327464a3) |
 | **SoloPulse** | Radar Digital Signal Processing (DSP)... | Peachtree Corners, GA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/663eecca-0951-4354-9a0f-14b52aa72ab9) |
+| **AbbVie** | Service Engineer, Analytical Instrume... | North Chicago, IL | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012907764) |
 | **AbbVie** | Manufacturing Software Controls Engineer | North Chicago, IL | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013481356) |
-| **Rainmaker** | Rainmaker Fellow, Atmospheric Instrum... | El Segundo, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/6b8ee727-b788-4f02-8157-db343181089d) |
 | **Rigetti** | Quality Control Technician | Berkeley, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rigetti/ec492be6-ff22-419b-9b4c-592f36c0556d) |
+| **Rainmaker** | Rainmaker Fellow, Atmospheric Instrum... | El Segundo, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/6b8ee727-b788-4f02-8157-db343181089d) |
+| **AbbVie** | Calibration Technician II - Ops (Sund... | Worcester, MA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013738931) |
+| **Pivotal Software** | Internship, GNC Engineering (Fall) | Palo Alto, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7) |
+| **Pivotal Software** | Motor Controls Engineer II - R&D | Palo Alto, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/9e6fe3e9-7668-483e-9273-85deb97eaff0) |
+| **Pivotal Software** | Verification Engineer - Aeromechanica... | Palo Alto, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/d1434d84-8a8a-43ec-91c4-18663f3fce99) |
 | **PingWind** | Unmanned Systems (UxS) Technician II | Virginia Beach, VA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/ae9670d0-4068-4796-9e62-c11cc5794ed8) |
 | **PlusAI** | Field Service Engineer | Dallas, Texas | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/2af29134-9fe8-45e5-80e4-a3fee19f2d7c) |
 | **PlusAI** | Functional Safety Manager | Santa Clara, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/6844904b-ccbf-41ba-924c-6a5d8ba572d5) |
 | **PlusAI** | Technician | Fremont, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/9afb1a31-cdc8-496a-a891-24b9d1254391) |
-| **Pivotal Software** | Autonomy Engineer II - Robotics | Palo Alto, CA or Miami, Florida | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/69119185-2d5b-4b54-8a87-8ea040c9e482) |
-| **Pivotal Software** | Internship, GNC Engineering (Fall) | Palo Alto, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7) |
-| **Pivotal Software** | Motor Controls Engineer II - R&D | Palo Alto, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/9e6fe3e9-7668-483e-9273-85deb97eaff0) |
-| **AbbVie** | Calibration Technician II - Ops (Sund... | Worcester, MA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013738931) |
-| **Vultr** | Data Center Technician (Kansas City) | Kansas City, MO | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/d82021a2-23fb-4a03-9478-2b29fb588ddc) |
-| **Vultr** | Network Operations Engineer | Remote - United States | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/d358d72e-0a0a-4832-9a2c-4dfe8747ed4f) |
-| **Vultr** | Storage Operations Engineer | Remote - United States | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/423024d2-2f9a-475c-adeb-ddfd55b93c35) |
-| **Gritt Robotics** | Mechanical Engineer | South San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/ed459ec7-84ba-415c-9c44-5be778a7c6b0) |
-| **Gritt Robotics** | Robotics Perception Engineer Intern | South San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/26af4e71-339d-4aa3-9f22-91574c1166b9) |
-| **Gritt Robotics** | Hardware Procurement Specialist | South San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/99aeb34d-6eec-4bc1-8acb-203657ce5998) |
 | **Palantir** | Web Design Engineer | New York, NY | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/a3eaa0ef-3378-495f-8308-edbd9a93d26c) |
 | **Palantir** | Product Reliability Engineer - Defense | New York, NY | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/250f623c-9afb-4c91-b0c0-25d4e83005ec) |
 | **Palantir** | Product Reliability Engineer - Defense | Washington, D.C. | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/57699414-b373-4a5e-9be8-6fb7de41ea72) |
+| **Multiply Labs** | Robotics Field Engineer | Los Angeles | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/multiplylabs/c9fe817b-745a-4c68-a157-1b2afdc09f9a) |
+| **Vultr** | Network Operations Engineer | Remote - United States | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/d358d72e-0a0a-4832-9a2c-4dfe8747ed4f) |
+| **Vultr** | Storage Operations Engineer | Remote - United States | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/423024d2-2f9a-475c-adeb-ddfd55b93c35) |
+| **Vultr** | Infrastructure Production Engineer | Remote - United States | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/80c68f1c-f4f1-4bbd-a96f-81cd5f592d20) |
 | **Antares** | Thermo - Mechanical Design Engineer -... | Los Angeles | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/antares/52785c9b-299d-4886-aa47-b14dc0094ba1) |
 | **Antares** | Nuclear Engineer I/II | Los Angeles | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/antares/f530ad09-21b2-49a5-a133-bd24fb97cede) |
 | **Antares** | Electrical Engineer I/II | Los Angeles | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/antares/8affea36-17e0-40f2-aa9c-9fe73017539c) |
@@ -149,24 +147,26 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Persona AI** | Robotics Simulation Engineer | Pensacola, FL or Houston, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/18e0d683-1666-4f4d-bef8-a62c175de17d) |
 | **Persona AI** | Process Engineer | Houston, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/e5dd4a0a-e283-4bc4-9c19-70682c667a7b) |
 | **Warp** | Design Engineer | New York | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/warp/34541a68-50a9-44c2-9651-eb3ca4a39be4) |
+| **Gritt Robotics** | Mechanical Engineer | South San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/ed459ec7-84ba-415c-9c44-5be778a7c6b0) |
+| **Gritt Robotics** | Robotics Perception Engineer Intern | South San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/26af4e71-339d-4aa3-9f22-91574c1166b9) |
+| **Gritt Robotics** | Hardware Procurement Specialist | South San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/99aeb34d-6eec-4bc1-8acb-203657ce5998) |
 | **Taara** | Board Design Engineer | Sunnyvale, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/taaraconnect/a5c08ecf-8142-4e27-a7f7-29cde627c8d5) |
 | **Taara** | Mechanical Design Engineer | Sunnyvale, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/taaraconnect/4c2a3ce9-4661-4509-9655-ce09d919c4fb) |
 | **Uncountable** | LLM Applications Engineer | New York, San Francisco, Munich ... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/uncountable/c88f8550-635e-4bdd-9280-1cd40b7212c0) |
-| **Saronic Technologies** | Mechanical Design Build Engineer | Austin, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/5f588e46-5bd6-428a-8f3b-a045262bbe14) |
-| **Saronic Technologies** | Mechanical Engineer - Special Programs | Austin, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/8e6399b9-2a1b-42f4-90f9-fcfabc51ac2f) |
-| **Saronic Technologies** | Wire Harness Design Engineer (EWIS) | Austin, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/3f83ac24-5da2-4b9b-a372-d207e86a417a) |
-| **Multiply Labs** | Robotics Field Engineer | Los Angeles | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/multiplylabs/c9fe817b-745a-4c68-a157-1b2afdc09f9a) |
-| **Rivian and Volkswagen Group Technologies** | Functional Safety Engineer – Infotain... | Palo Alto, California | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/1b5515ae-6970-40d7-aee0-9b6099319966) |
-| **Skydio** | Electrical Engineer (all levels) | San Mateo, California, United St... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/f0c26a3c-d999-4dc2-8812-b3835f633ded) |
-| **Skydio** | Product Design Engineer (All Levels) | San Mateo, California, United St... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/3f02ead1-8efe-4e3f-9c75-625e74ab57d1) |
-| **Skydio** | RF Design Engineer | San Mateo, California, United St... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/f72f1fa5-d3d6-459e-8722-a94ce92ad1c8) |
-| **RunPod** | Site Reliability Engineer | Remote - USA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/runpod/1d14340c-c9bd-4754-80f4-5c83980cd413) |
-| **Radiant Industries** | Loads & Dynamics Engineer | El Segundo, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/2df25d2f-595d-4860-9cff-bb10b37ebae8) |
-| **Radiant Industries** | Supply Reliability Engineer | El Segundo, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/28275b5f-edd9-49b7-b244-01402fe5f66a) |
-| **Radiant Industries** | Nuclear Engineer, Core Physics | El Segundo, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/b06c208d-7e4d-4f56-a2c8-4839c846efc1) |
 | **Machina Labs** | Robotic Process Engineer | Chatsworth, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/6f93bd26-0c5e-4b3f-996c-d238c1db2139) |
 | **Machina Labs** | Robotic Process Engineer, Intern | Chatsworth, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) |
 | **Machina Labs** | Robotic Process Engineer, Intern | Chatsworth, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1) |
+| **Lumafield** | Application Engineer, CV/ML | San Francisco, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/lumafield/0bcd8cce-ce74-4f39-a0f7-182278d4844b) |
+| **Lumafield** | Applications Engineer | Boston, MA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/lumafield/181866d7-ffa5-4e12-b25c-aa4f1fd0bb11) |
+| **Lumafield** | Field Service Engineer | San Francisco, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/lumafield/7af170cc-41f3-4af5-b420-e3d8f2ada675) |
+| **Saronic Technologies** | Electrical Engineer | Austin, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/5353e481-3810-4a68-a09c-28235a17e086) |
+| **Saronic Technologies** | Electrical Engineer – Radio Frequency... | Austin, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/2201604e-606b-45c2-a4e6-9fd9088813f5) |
+| **Saronic Technologies** | Hardware Engineer - Forward Deployed | Austin, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/abb1c82f-73b7-40e3-b822-906d699dbe3e) |
+| **Rivian and Volkswagen Group Technologies** | Functional Safety Engineer – Infotain... | Palo Alto, California | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/1b5515ae-6970-40d7-aee0-9b6099319966) |
+| **RunPod** | Site Reliability Engineer | Remote - USA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/runpod/1d14340c-c9bd-4754-80f4-5c83980cd413) |
+| **Skydio** | Product Design Engineer (All Levels) | San Mateo, California, United St... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/3f02ead1-8efe-4e3f-9c75-625e74ab57d1) |
+| **Skydio** | RF Design Engineer | San Mateo, California, United St... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/f72f1fa5-d3d6-459e-8722-a94ce92ad1c8) |
+| **Skydio** | Electrical Engineer (Sustaining/Valid... | San Mateo, California, United St... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/8e50c7da-2868-4383-af1f-920584d537fc) |
 | **Ramp** | Design Engineer | New York, NY ( | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/ramp/b68aca53-16c0-4ced-ab1d-e8beb2940b4f) |
 | **Replit** | Design Engineer | Foster City, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/2f1de5f1-48c2-4104-a697-a51fe1620508) |
 
@@ -193,11 +193,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **OpenAI** | RTL Design Engineer – Interconnect & ... | San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/6cf91ff5-a811-435c-bf93-f3d958896599) |
 | **OpenAI** | Networking Operating System Firmware ... | San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/f6b9903c-9034-436b-a4ec-4c8643a6d0dd) |
 | **Northwood Space** | FPGA Engineer | Torrance, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/20798d3e-039d-4255-9b9d-39612c0c597e) |
-| **MatX** | SoC Design Verification Engineer | Mountain View ( | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/a8f5e7ab-6938-43f4-ae56-d0a4d316f53c) |
-| **MatX** | ASIC/SOC Silicon Physical Design Engi... | Mountain View ( | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/13b49fe9-aa5b-4270-aaf0-e3d0091a9615) |
-| **MatX** | ASIC/SOC CAD Engineer | Mountain View ( | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/54fa5fa8-415e-4b7e-948a-4149d9b5f3bd) |
-| **Hinge Health** | Firmware Engineer II | San Francisco- | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/12ec2655-34d6-4990-a148-4504b91b7796) |
 | **Belvedere Trading** | FPGA Engineer | Chicago, Illinois | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/belvederetrading/67c39285-40b4-436f-9e12-5644f070f46f) |
+| **MatX** | SOC Integration Engineer | Mountain View ( | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/bb0ec7a6-39f4-4834-bac1-c0c8358bc384) |
+| **MatX** | BMC Firmware Engineer | Mountain View ( | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/7684942f-9486-4f8e-a0d1-8749901ae48c) |
+| **MatX** | SoC Design Verification Engineer | Mountain View ( | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/matx/a8f5e7ab-6938-43f4-ae56-d0a4d316f53c) |
+| **Hinge Health** | Firmware Engineer II | San Francisco- | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/12ec2655-34d6-4990-a148-4504b91b7796) |
 | **Etched** | RTL Design Engineer | San Jose | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/c3ca158a-015d-413d-bd14-5470e546ed15) |
 | **Etched** | Design Verification Engineer - SoC | San Jose | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/a99318bd-b433-44b7-9600-2ee9533c90a1) |
 | **Etched** | Design Verification Engineer - SoC | Austin | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/33adf31c-e0ad-4080-bb83-1b3859f95d35) |
@@ -205,13 +205,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670331401866692917) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7673667614757374213) |
 | **ByteDance** | ASIC Design Engineer Intern (Video Si... | San Jose, California | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7673638856678279429) |
-| **Google** | SoC DFT Engineer, Cloud | United States | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/124055002745316038) |
-| **Google** | ASIC Power Engineer, ML Accelerators | United States | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103506938603414214) |
-| **Google** | RTL Design Engineer, TPU and ML | United States | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105675264117088966) |
-| **Varda Space** | Spacecraft Firmware Engineer II | El Segundo, California, United S... | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7987625003) |
+| **Google** | ASIC Power Manager, ML Accelerators | United States | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87833761126720198) |
+| **Google** | Firmware Engineer, Modem Access Strat... | United States | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99797697472406214) |
+| **Google** | TPU SoC Design Engineer, Cloud | United States | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98412087872496326) |
+| **Varda Space** | Spacecraft Firmware Engineer II | El Segundo, California, United S... | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7987625003) |
 | **Carrier Global** | Associate Field Engineer - Automated ... | CAT16: CCS-Dallas, 1901 N. Glenv... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT16-CCS-Dallas-1901-N-Glenville-Drive-Richardson-TX-75081-USA/Associate-Field-Engineer-Automated-Logic_30204650) |
-| **Astranis** | Harness Manufacturing Associate (Fall... | San Francisco | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4711393006) |
-| **Microsoft** | Firmware Engineering INTERN | Redmond, Washington, United States | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556981972) |
+| **Astranis** | Harness Manufacturing Associate (Fall... | San Francisco | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4711393006) |
+| **Microsoft** | Firmware Engineering INTERN | Redmond, Washington, United States | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556981972) |
 | **Apple** | Firmware Engineer — AirPods HID Sensi... | Cupertino | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200681599/firmware-engineer-airpods-hid-sensing-interaction) |
 | **Parsons** | Associate Structural Engineer | IL, Chicago, R185394 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---IL-Chicago/Associate-Structural-Engineer_R185394) |
 | **Apple** | SoC Physical Design Engineer, PnR | Waltham | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200681507/soc-physical-design-engineer-pnr) |
@@ -291,22 +291,22 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Western Digital** | Engineer Embedded System Engineering | Irvine, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138185309) |
+| **Western Digital** | Engineer Embedded System Engineering | Irvine, CA | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138185309) |
 | **Sandisk** | Product Security Engineer - Hardware/... | Milpitas, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000133420384) |
-| **Deepgram** | Embedded AI Engineer, On-Device Models | USA  Remote | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/deepgram/0b7494b3-a91e-4540-9439-5b10a1e5b391) |
 | **Zoox** | Firmware Validation Engineer | Foster City, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/4b00bf61-6547-4c50-be83-5d659176090b) |
 | **Zoox** | Firmware Validation Engineer - Batter... | Foster City, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/8c037577-5728-4a7d-bbd4-bd83a3e44614) |
+| **Deepgram** | Embedded AI Engineer, On-Device Models | USA  Remote | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/deepgram/0b7494b3-a91e-4540-9439-5b10a1e5b391) |
 | **Waabi** | V&V Engineer, Firmware | Pittsburgh, PA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/959696fa-1891-42a5-bc5d-5651f327f29b) |
 | **Qrypt** | Embedded Software Engineer | Germantown, MD | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/qrypt/c1ed6b7c-eadd-4476-9abc-b4b1e1272573) |
+| **Palantir** | Embedded Legal Engineer | Washington, D.C. | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/84335d8e-f91c-4741-b4c6-7649f3ac948d) |
 | **Palantir** | Embedded Legal Engineer | Palo Alto, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/2d2f0ed7-134a-4f24-af89-cfb8583d796a) |
 | **Palantir** | Embedded Legal Engineer | New York, NY | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/471ccceb-3614-4c28-a1af-b1235c081173) |
-| **Palantir** | Embedded Legal Engineer | Washington, D.C. | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/84335d8e-f91c-4741-b4c6-7649f3ac948d) |
 | **Etched** | Firmware Intern | San Jose | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc) |
 | **Etched** | MTS - Firmware | Austin | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/a735c757-7d39-47de-9329-77d6362b5547) |
 | **Applied Intuition** | Embedded AI Engineer – Android Automo... | Sunnyvale | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/5e204245-3d33-4916-bfdd-991f0cc745eb) |
 | **Applied Intuition** | Embedded Firmware Validation Engineer | Sunnyvale | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/01dba94d-34b9-4d30-a7d3-82344bab609c) |
 | **Applied Intuition** | Embedded Test Engineer - New Grad (De... | Sunnyvale | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c) |
-| **Varda Space** | Spacecraft Embedded Linux Engineer II | El Segundo, California, United S... | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7987624003) |
+| **Varda Space** | Spacecraft Embedded Linux Engineer II | El Segundo, California, United S... | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7987624003) |
 | **DoorDash** | Embedded SW Test Engineer | San Francisco, CA | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8177992) |
 | **SpaceX** | GNC Engineer - Embedded Controls (Sta... | Redmond, WA | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8784235002?gh_jid=8784235002) |
 | **Northrop Grumman** | Embedded DevOps Engineer Level 4 (AHT) | United States-California-Northridge | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Embedded-DevOps-Engineer-Level-4--AHT-_R10249670) |
@@ -376,12 +376,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Waabi** | Test Engineer | Pittsburgh, PA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/1fb790ab-2a32-4314-a1fd-907f7ce0e6e6) |
 | **Waabi** | Test Engineer | Phoenix, AZ | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/8b2b6f2b-d3f4-4a83-a22c-968445d8f4bb) |
 | **Synergy ECP** | Test Engineer | Annapolis Junction, MD | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/da23f594-a1cf-4978-8770-3f8f31e7b00e) |
-| **Bosch Group** | System Engineer - Power Electronics | Farmington Hills, MI | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000144814189) |
 | **Shield AI** | Propulsion Test Engineer (R4380) | Wichita Metro Area | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/c3e09d7f-cbd3-4e25-b1eb-cbb6e06d8459) |
-| **Shield AI** | Power Electronics - Thermal Engineer ... | Seattle, Washington | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/f6bbec19-f1c6-44ce-9af5-132b25b6e83a) |
 | **Shield AI** | Flight Test Engineer (R5006) | Wichita Metro Area | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/c71d4278-e8af-4d66-ba49-80670cccfc3c) |
-| **PlusAI** | Perception Validation Engineer | Santa Clara, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/0c342721-601c-4466-b503-5b18438064c2) |
+| **Shield AI** | Power Electronics - Thermal Engineer ... | Seattle, Washington | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/f6bbec19-f1c6-44ce-9af5-132b25b6e83a) |
+| **Bosch Group** | System Engineer - Power Electronics | Farmington Hills, MI | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000144814189) |
 | **AbbVie** | Validation Engineer II | Branchburg, NJ | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014090096) |
+| **PlusAI** | Perception Validation Engineer | Santa Clara, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/0c342721-601c-4466-b503-5b18438064c2) |
 | **Gritt Robotics** | Robotics System Test Engineer | South San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/5a834deb-09aa-406c-8c8d-c5d7cc6818ad) |
 | **Gritt Robotics** | Hardware Test Engineer | South San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gritt/33d60056-6258-4749-b514-e4b99e15c74b) |
 | **Uncountable** | Validation Engineer | New York, San Francisco, Munich ... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/uncountable/a8390152-8709-4a36-93b9-eb2bc6242342) |
@@ -406,18 +406,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Base Power** | Manufacturing Test Engineer | Austin, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/39073031-27b8-4105-ba3f-e5690ceca391) |
 | **Applied Intuition** | OTA Validation Engineer | Sunnyvale | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/567062a4-578e-4d05-a175-4fff84dd07b5) |
 | **Applied Intuition** | Hardware Test Engineer | Sunnyvale | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/d8b7286e-bd47-407b-859d-f2b7f5822a8c) |
+| **Apex Technology** | Avionics Test Engineer, Hardware | Los Angeles | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/apex-technology-inc/3c7c5384-c6e9-4274-b090-90d2d51c30a8) |
 | **Apex Technology** | Power Electronics Engineer (Mid) | Los Angeles | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/apex-technology-inc/5066f10b-4bf1-4e6f-8db1-41efa436fa4b) |
 | **Apex Technology** | RF Test Engineer | Los Angeles | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/apex-technology-inc/7c3d14a1-e44a-4ccc-81ad-3cbc9914a646) |
-| **Apex Technology** | Avionics Test Engineer, Hardware | Los Angeles | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/apex-technology-inc/3c7c5384-c6e9-4274-b090-90d2d51c30a8) |
-| **Google** | Test Engineer, Pixel Device Experiences | United States | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86800819344548550) |
-| **Google** | EMC Test Engineer, Platforms Infrastr... | United States | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/121101450372620998) |
-| **Google** | Hardware Validation Engineer, Data Ce... | United States | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107932829387498182) |
+| **Google** | Silicon Validation Engineer, HBM, Goo... | United States | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107321643193246406) |
+| **Google** | Silicon Validation Engineer, Google C... | United States | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87066834049606342) |
+| **Google** | Test Engineer, Display Manufacturing,... | United States | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142697182128939718) |
 | **Skydio** | Systems Integration and Test Engineer | CA San Mateo | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/97f41217-653b-4a2c-bc91-86c76ecf85e3) |
 | **SpaceX** | Mechanical Integration & Test Enginee... | Hawthorne, CA | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8780331002?gh_jid=8780331002) |
 | **SpaceX** | Test Engineer (Avionics Test Lab) | Hawthorne, CA | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8784692002?gh_jid=8784692002) |
 | **Anduril** | Radio Frequency Test Engineer | Irvine, California, United States | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5231652007?gh_jid=5231652007) |
 | **Anduril** | Electrical Test Engineer | Irvine, California, United States | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5231651007?gh_jid=5231651007) |
 | **Apple** | Touch HW EE Validation Engineer | Austin Metro Area | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200658959/touch-hw-ee-validation-engineer) |
+| **Motorola Solutions** | Test Engineering Internship 2027 | Greater Chicago Area | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Test-Engineering-Internship-2027_R68059) |
 | **Apple** | Circuit Design Engineer | Santa Clara | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200681514/circuit-design-engineer) |
 | **Hitachi** | Field Test Engineer | New York, New York, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/New-York-New-York-United-States/Field-Test-Engineer_R0141856) |
 | **Jabil** | Test Engineer I (1st Shift) | Prince George, VA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Prince-George-VA/Test-Engineer-I--1st-Shift-_J2463519) |
@@ -431,7 +432,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Caterpillar** | Electrical Design Engineer | Mossville, Illinois | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Electrical-Design-Engineer_R0000392172) |
 | **Intel** | Mixed Signal Design Verification Engi... | Oregon Hillsboro | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Mixed-Signal-Design-Verification-Engineer_JR0285739) |
 | **KBR** | Test Engineer | Huntsville, Alabama | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Test-Engineer_R2129451) |
-| **Motorola Solutions** | Test Engineering Internship 2027 | Greater Chicago Area | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Test-Engineering-Internship-2027_R68059) |
 | **Northrop Grumman** | Electrical Design Engineer Level 4 | United States-California-Sunnyvale | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Electrical-Design-Engineer-Level-4_R10248039) |
 | **Northrop Grumman** | Electrical Design Engineer Level 2 / 3 | United States-California-Sunnyvale | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Electrical-Design-Engineer-Level-2---3_R10240380) |
 | **Northrop Grumman** | Test Engineer Level 2/3 | United States-California-Sunnyvale | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Test-Engineer-Level-2-3_R10240541) |
@@ -449,12 +449,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Micron Technology** | New College Grad - Design Engineer, C... | San Jose, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/San-Jose-CA/Staff-Engineer--Circuit-Design_JR94667) |
 | **SharkNinja** | Test Engineer - Indoor Heated | Needham, MA, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4708880006) |
 | **ALTEN Technology** | Automotive Cockpit Validation Engineer | Auburn Hills, Michigan, United S... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5230029007) |
+| **Zayo** | Circuit Designer Specialist | United States | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/United-States/Circuit-Designer-Specialist_R0016748-1) |
 | **Sierra Nevada Corporation** | Test Engineering Intern (Summer 2027) | Hagerstown, MD | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Hagerstown-MD/Test-Engineering-Intern--Summer-2027-_R0030772) |
 | **Sierra Nevada Corporation** | Test Engineering Intern (Summer 2027) | Dayton, OH | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Test-Engineering-Intern--Summer-2027-_R0030766) |
 | **Sierra Nevada Corporation** | Test Engineering Intern (Summer 2027) | Lone Tree, CO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Test-Engineering-Intern--Summer-2027-_R0030771) |
 | **Intel** | Memory Circuit Design Engineer | US, Texas, Austin | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Memory-Circuit-Design-Engineer_JR0286626) |
 | **ALTEN Technology** | NAPR – Validation Engineer | Auburn Hills, Michigan, United S... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5228607007) |
-| **Zayo** | Circuit Designer Specialist | United States | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/United-States/Circuit-Designer-Specialist_R0016748-1) |
 | **AMD** | Power & Performance Systems Validatio... | Folsom, CA, United States | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/91929/login) |
 | **Philips** | Electrical Design Engineer 3 | Gainesville, Florida, United States | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Gainesville-Florida-United-States/Electrical-Design-Engineer-3_589672) |
 | **CACI** | Test Engineer | Chantilly VA US | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Chantilly-VA-US/Test-Engineer_331389) |
@@ -485,8 +485,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Persona AI** | Quality Engineer | Houston, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/de83c3eb-e6e4-4ba2-a675-db4e8ef7918a) |
 | **Saronic Technologies** | Quality Engineer – Accuracy Control | Franklin, LA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/d2330bfb-ea14-4095-b1a5-af751bc95315) |
 | **Saronic Technologies** | NPI Quality Engineer - Mechanical | Austin, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/b6f96b31-7549-47a4-aa58-adb6eb284583) |
-| **Skydio** | Hardware Test & Reliability Intern - ... | San Mateo, California, United St... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924) |
 | **AbbVie** | Engineer, Validation Commissioning | North Chicago, IL | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014382406) |
+| **Skydio** | Hardware Test & Reliability Intern - ... | San Mateo, California, United St... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924) |
 | **OpenAI** | Quality Engineer - Rack Infrastructur... | San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/fff7b15d-a1a0-441f-90f1-5efcae7f0051) |
 | **OpenAI** | Component and Product Quality Enginee... | San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/2c9d0566-69b1-435e-bd8f-4eefc04dd076) |
 | **Lambda** | Hardware Quality Engineer | San Jose | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/9644bc3d-966a-4a5e-85ef-3afbe080a7a6) |
@@ -549,7 +549,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Neuralink** | Quality Engineering Technician | Austin, Texas, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7983992003?gh_jid=7983992003) |
 | **Apple** | Quality Assurance Engineer - Siri AI ... | Cupertino | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200681214/quality-assurance-engineer-siri-ai-quality-engineering) |
 | **Anduril** | Product Quality Engineer - Barracuda | Costa Mesa, California, United S... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5201549007?gh_jid=5201549007) |
-| **GE Healthcare** | Image Quality Engineer | Salt Lake City | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Image-Quality-Engineer_R4043472-1) |
+| **GE Healthcare** | Image Quality Engineer | Salt Lake City | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Image-Quality-Engineer_R4043472-1) |
+| **Stanley Black & Decker** | Quality Engineer | Allentown, PA, United States | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Allentown-PA-United-States/Quality-Engineer_REQ-1000051364) |
 | **Sierra Nevada Corporation** | Program Quality Engineer II | Dayton, OH | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Program-Quality-Engineer-II_R0030200-1) |
 | **Cisco** | Product Test Development Engineer | San Jose, California, US | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Product-Test-Development-Engineer_2014142-1) |
 | **Broadcom** | ATE Test Development Engineer | USA-Colorado-Fort Collins | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ATE-Test-Development-Engineer_R026769-1) |
@@ -559,7 +560,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Quality Engineering Technician II | United States - Indiana - Westfield | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Indiana---Westfield/Quality-Engineering-Technician-II_31160072-2) |
 | **Johnson Controls** | Quality Engineer I | Largo-Florida-United States of A... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Largo-Florida-United-States-of-America/Quality-Engineer-I_WD30278664) |
 | **Johnson Controls** | Supplier Quality Engineer | Gilbert-Arizona-United States of... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Gilbert-Arizona-United-States-of-America/Supplier-Quality-Engineer_EB000753293-1) |
-| **Stanley Black & Decker** | Quality Engineer | Allentown, PA, United States | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Allentown-PA-United-States/Quality-Engineer_REQ-1000051364) |
 | **General Motors** | 2027 Co-Op Student – Manufacturing Qu... | 4 Locations | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bay-City-Michigan-United-States-of-America/XMLNAME-2027-Co-Op-Student---Manufacturing-Quality-Engineer_JR-202619309) |
 | **Caterpillar** | Quality Engineer | Lafayette, Indiana | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Lafayette-Indiana/Quality-Engineer_R0000376094) |
 | **Emerson Electric** | Quality Engineering Intern | Eden Prairie, MN, United States | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009443) |
@@ -653,7 +653,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 6138 current opportunities from 424 companies**
+**🎯 6139 current opportunities from 424 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
